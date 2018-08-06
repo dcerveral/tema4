@@ -1,0 +1,979 @@
+<!doctype html>
+<html lang="es">
+<head>
+<title>Sofás relax motorizados de 2 y 3 plazas. Sofassinfin</title>
+<meta name="description" content="Sofás relax reclinables de 2 y 3 plazas con sistema relax eléctrico motorizado y con hasta cinco (5) años de garantía en sofás relax de piel y tela.">
+<meta name="keywords" content="sofas relax">
+<!--meta info-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="author" content="Bisem Rias SL">
+<!--add responsive layout support-->
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!--include favicon-->
+<link rel="shortcut icon" type="image/x-icon" href="images/fav.ico">
+<!--stylesheet include-->
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/animate.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/jackbox/css/jackbox.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/fancybox/jquery.fancybox.css">	
+<!--fonts include-->
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic,300italic,100italic,100,700italic,900,900italic,700' rel='stylesheet' type='text/css'>
+<!--stylesheet include-->
+	<!--[if lte IE 10]>
+			<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+			<link rel="stylesheet" type="text/css" media="screen" href="plugins/jackbox/css/jackbox-ie9.css">
+		<![endif]-->
+		<!--head libs-->
+		<!--[if lte IE 8]>
+			<style>
+				#preloader{display:none !important;}
+			</style>
+		<![endif]-->
+</head>
+<body class="sticky_menu">
+		<!--layout-->
+<div class="wide_layout db_centered bg_white">
+			<!--[if (lt IE 9) | IE 9]>
+				<div class="bg_red" style="padding:5px 0 12px;">
+				<div class="container" style="width:1170px;"><div class="row wrapper"><div class="clearfix color_white" style="padding:9px 0 0;float:left;width:80%;"><i class="fa fa-exclamation-triangle f_left m_right_10" style="font-size:25px;"></i><b>Attention! This page may not display correctly.</b> <b>You are using an outdated version of Internet Explorer. For a faster, safer browsing experience.</b></div><div class="t_align_r" style="float:left;width:20%;"><a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode" class="button_type_1 d_block f_right lbrown tr_all second_font fs_medium" target="_blank" style="margin-top:6px;">Update Now!</a></div></div></div></div>
+			<![endif]-->
+<header role="banner" class="w_inherit">
+<!--top part-->
+<div class="header_top_part bg_grey_light_2">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4 t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0">
+<!--shop nav-->
+<nav class="d_xs_inline_b">
+<ul class="hr_list second_font si_list fs_small">
+<li><a class="sc_hover d_inline_b" title="Inicio" href="./">Inicio</a></li>
+<li><a class="sc_hover d_inline_b" title="Blog" href="blog/">Blog</a></li>
+<li><a class="sc_hover d_inline_b" rel="nofollow" title="Cientes" href="clientes/">Área Clientes</a></li>
+</ul>
+</nav>
+</div>
+<div class="col-lg-4 col-md-5 col-sm-4 fs_small color_light fw_light t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0"><p class="scheme_color">Necesitas Ayuda?  Tfno: 986.86.69.48</p></div>
+<div class="col-lg-4 col-md-5 col-sm-4 fs_small color_light fw_light t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0">
+<!--currency-->
+<div class="f_right relative transform3d">
+<b class="scheme_color">Tienda online de Sofás Relax</b> &nbsp; Avda de Vigo 42. Pontevedra &nbsp; 
+</div></div></div></div></div>
+<div class="header_middle_part t_xs_align_c">
+<div class="container">
+<div class="d_table w_full d_xs_block">
+<div class="col-lg-4 col-md-4 col-sm-4 d_table_cell d_xs_block f_none v_align_m m_xs_bottom_15">
+<!--logo-->
+<a rel="nofollow" href="./" title="Inicio" class="d_inline_b"><img src="images/logo.png" alt="Logotipo Sofassinfin"></a>
+</div>
+<div class="col-lg-8 col-md-8 col-sm-8 d_table_cell d_xs_block f_none v_align_m">
+<div class="clearfix">
+<div class="clearfix f_right f_xs_none d_xs_inline_b m_xs_bottom_15 t_xs_align_l">
+<!--currency-->
+<div class="f_right relative transform3d">
+<form action="admin/atencion-al-cliente.html" class="sc_hover"><button class="button_type_1 tr_all second_font color_dark grey state_2 fs_small" data-open-dropdown="#currency"><i class="fa fa-user d_inline_m m_right_5"></i> Contacto</button></form> 
+</div>
+<!--login-->
+<div class="f_right m_right_3 relative transform3d">
+<button class="button_type_1 tr_all second_font color_dark grey state_2" data-open-dropdown="#login"><i class="fa fa-phone d_inline_m m_right_5"></i> <span class="fs_small">Te llamamos</span></button>
+<div id="login" data-show="fadeInUp" data-hide="fadeOutDown" class="dropdown bg_grey_light login_dropdown animated">
+<form action="php/llamamos.php" method="post" id="llamamosform" class="m_bottom_15">
+<ul>
+<li class="m_bottom_15">
+<label for="name" class="second_font m_bottom_4 d_inline_b fs_medium">Nombre</label>
+<input type="text" name="name" id="name" placeholder="Su nombre" class="w_full tr_all" required/>
+</li>
+<li class="m_bottom_20">
+<label for="telefono" class="second_font m_bottom_4 d_inline_b fs_medium">Teléfono</label>
+<input type="text" name="telefono" id="telefono" placeholder="Su Teléfono" class="w_full tr_all" required/>
+</li>
+<li>
+<button type="submit" value="Enviar" class="t_align_c tt_uppercase w_full second_font d_block fs_medium button_type_2 lbrown tr_all">Enviar</button>
+</li>
+</ul>
+</form>
+</div></div></div></div></div></div></div></div>
+<div class="header_bottom_part bg_white w_inherit">
+<div class="container">
+<hr class="divider_black">
+<div class="row">
+<div class="col-lg-9 col-md-9">
+<button id="mobile_menu_button" class="vc_child d_xs_block db_xs_centered d_none m_bottom_10 m_top_15 bg_lbrown color_white tr_all"><i class="fa fa-navicon d_inline_m"></i> MENÚ</button>
+<!--main menu-->
+<nav role="navigation" class="d_xs_none">
+<ul class="main_menu relative hr_list second_font fs_medium">
+<li><a title="Sofás 3 + 2 Plazas" href="#" class="tt_uppercase tr_delay">Sofás 3 + 2 Plazas <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás Modernos" href="sofas-modernos.html">Sofás Modernos</a></li>
+<li><a title="Sofás Clásicos" href="sofas-clasicos.html">Sofás Clásicos</a></li>
+<li><a title="Sofás Relax" href="sofas-relax.html">Sofás Relax</a></li>
+</ul>
+<li><a title="Sofá Chaise-longue" href="#" class="tt_uppercase tr_delay">Sofá Chaise-longue <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás con Chaise-longue" href="chaise-longue-y-rinconeras.html">Sofás con Chaise-longue</a></li>
+<li><a title="Sofás Relax con Chaise-longue" href="chaise-longue-relax.html">Sofás Relax con Chaise-longue</a></li>
+</ul>
+</li>
+<li><a title="Sofá Cama" href="#" class="tt_uppercase tr_delay">Sofá Cama <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás Cama" href="sofas-cama.html">Sofás Cama</a></li>
+<li><a title="Sofás Cama Libro" href="sofas-cama-libro.html">Sofás Cama Libro</a></li>
+</ul>
+</li>
+<li><a title="Sillón" href="#" class="tt_uppercase tr_delay">Sillón <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sillones Relax" href="sillones-relax.html">Sillones Relax</a></li>
+<li><a title="Butacas" href="butacas.html">Butacas</a></li>
+<li><a title="Poufs" href="pouf.html">Poufs</a></li>
+</ul>
+</li>
+<li><a title="Descanso" href="#" class="tt_uppercase tr_delay">Descanso <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Colchones" href="descanso/colchones.html">Colchones</a></li>
+<li><a title="Canapés Abatibles" href="descanso/canapes-abatibles.html">Canapés Abatibles</a></li>
+<li><a title="Cabeceros Tapizados" href="descanso/cabeceros-bases-tapizados.html">Cabeceros Tapizados</a></li>
+</ul>
+</li>
+<li><a title="Muebles" href="muebles/catalogo-muebles.html" class="tt_uppercase tr_delay">Muebles</a></li>
+</ul>
+</nav>
+</div></div></div></div>
+</header>
+<!--breadcrumbs-->
+<div class="breadcrumbs bg_grey_light_2 fs_medium fw_light">
+<div class="container">
+<a rel="nofollow" href="./" title="Inicio" class="sc_hover">Inicio</a> <span class="color_dark">/</span> Sofás Relax
+</div>
+</div>
+<!--main content-->
+<div class="page_section_offset">
+<div class="container">
+<div class="row">
+<main class="col-lg-9 col-md-9 col-sm-9 m_bottom_30 m_xs_bottom_10">
+<h1 class="fw_light second_font color_dark tt_uppercase m_bottom_27">Sofás Relax</h1>
+<figure class="m_bottom_45 m_xs_bottom_30">
+<img src="images/category_img_12.jpg" alt="Sofás Relax" class="m_bottom_15">
+<figcaption>
+<p class="fw_light">En sofassinfin podrá elegir entre los sofás relax que se adapten a sus gustos y a al estilo decorativo del salón, con relax manual o eléctrico motorizado. <b>Sofás relax reclinables</b> con diferentes  tapizados y con garantía de hasta cinco (5) años de duración en sofás relax de piel.</p>
+</figcaption>
+</figure>
+<div class="d_table w_full m_bottom_5">
+<div class="col-lg-6 col-md-6 col-sm-6 d_xs_block v_align_m d_table_cell f_none fs_medium color_light fw_light m_xs_bottom_5">
+<div class="d_block fs_large">Catálogo </div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 d_xs_block v_align_m d_table_cell f_none t_align_r t_xs_align_l p_xs_left_0">
+<p class="fw_light fs_medium d_inline_m m_right_5 color_light">Ver en:</p>
+<div class="clearfix d_inline_m">
+<button data-isotope-layout="grid" data-isotope-container="#can_change_layout" class="button_type_4 f_left grey state_2 m_right_5 tr_all second_font tt_uppercase vc_child black_button_active"><i class="fa fa-th m_top_0 d_inline_m"></i></button>
+<button data-isotope-layout="list" data-isotope-container="#can_change_layout" class="button_type_4 f_left grey state_2 tr_all second_font tt_uppercase vc_child black_hover"><i class="fa fa-th-list m_top_0 d_inline_m"></i></button>
+</div></div></div>
+<hr class="divider_light m_bottom_5">
+<!--isotope-->
+<div id="can_change_layout" class="category_isotope_container three_columns wrapper m_bottom_10 m_xs_bottom_0" data-isotope-options='{
+								"itemSelector": ".category_isotope_item",
+					  			"layoutMode": "fitRows"
+							}'>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/oscar/sofa-relax-oscar-dir_1.jpg" alt="Sofá relax Oscar. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/oscar/sofa-relax-oscar-dir_2.jpg" alt="Sofá relax Oscar. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Oscar</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Oscar con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-oscar.html" title="Sofá relax Losbu modelo Oscar" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Oscar</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/eliot/sofa-relax-eliot-dir_1.jpg" alt="Sofá relax Eliot. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/eliot/sofa-relax-eliot-dir_2.jpg" alt="Sofá relax Eliot. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Eliot</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Eliot con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-eliot.html" title="Sofá relax Losbu modelo Eliot" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Eliot</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/memory/sofa-relax-memory-dir_1.jpg" alt="Sofá relax Memory. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/memory/sofa-relax-memory-dir_2.jpg" alt="Sofá relax Memory. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Memory</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Acomodel modelo Memory con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-memory.html" title="Sofá relax Acomodel modelo Memory" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Memory</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/amadeus/sofa-relax-amadeus-dir_1.jpg" alt="Sofá relax Amadeus. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/amadeus/sofa-relax-amadeus-dir_2.jpg" alt="Sofá relax Amadeus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Amadeus</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Divani Star modelo Amadeus con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-amadeus.html" title="Sofá relax Divani Syar modelo Amadeus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Amadeus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/idoia/sofa-relax-idoia-dir_1.jpg" alt="Sofá relax Idoia. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/idoia/sofa-relax-idoia-dir_2.jpg" alt="Sofá relax Idoia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Idoia</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Idoia con relax eléctrico, tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-idoia.html" title="Sofá relax Losbu modelo Idoia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Idoia</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/alaska/sofa-relax-alaska-dir_1.jpg" alt="Sofá relax Alaska. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/alaska/sofa-relax-alaska-dir_2.jpg" alt="Sofá relax Alaska. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Alaska</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Divani Star modelo Alaska con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-alaska.html" title="Sofá relax Divani Star modelo Alaska" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Alaska</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/blus/sofa-relax-blus-dir_1.jpg" alt="Sofá relax Blus. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/blus/sofa-relax-blus-dir_2.jpg" alt="Sofá relax Blus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Blus</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Acomodel modelo Blus con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-blus.html" title="Sofá relax Acomodel modelo Blus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Blus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/megan/sofa-relax-megan-dir_1.jpg" alt="Sofá relax Megan. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/megan/sofa-relax-megan-dir_2.jpg" alt="Sofá relax Megan. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Megan</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Megan con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-megan.html" title="Sofá relax Losbu modelo Megan" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Megan</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/truman/sofa-relax-truman-dir_1.jpg" alt="Sofá relax Truman. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/truman/sofa-relax-truman-dir_2.jpg" alt="Sofá relax Truman. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Truman</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Truman con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-truman.html" title="Sofá relax Losbu modelo Truman" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Truman</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/dexter/sofa-relax-dexter-dir_1.jpg" alt="Sofá relax Dexter. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/dexter/sofa-relax-dexter-dir_2.jpg" alt="Sofá relax Dexter. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Dexter</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Dexter con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-dexter.html" title="Sofá relax Losbu modelo Dexter" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Dexter</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/fedra/sofa-relax-fedra-dir_1.jpg" alt="Sofá relax Fedra. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/fedra/sofa-relax-fedra-dir_2.jpg" alt="Sofá relax Fedra. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Fedra</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Fedra con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-fedra.html" title="Sofá relax Losbu modelo Fedra" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Fedra</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/gala/sofa-relax-gala-dir_1.jpg" alt="Sofá relax Gala. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/gala/sofa-relax-gala-dir_2.jpg" alt="Sofá relax Gala. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Gala</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Gala con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-gala.html" title="Sofá relax Losbu modelo Gala" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Gala</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/lucy/sofa-relax-lucy-dir_1.jpg" alt="Sofá relax Lucy. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/lucy/sofa-relax-lucy-dir_2.jpg" alt="Sofá relax Lucy. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Lucy</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Lucy con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-lucy.html" title="Sofá relax Losbu modelo Lucy" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Lucy</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/maica/sofa-relax-maica-dir_1.jpg" alt="Sofá relax Maica. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/maica/sofa-relax-maica-dir_2.jpg" alt="Sofá relax Maica. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Maica</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Maica con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-maica.html" title="Sofá relax Losbu modelo Maica" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Maica</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/aitana/sofa-relax-aitana-dir_1.jpg" alt="Sofá relax Aitana. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/aitana/sofa-relax-aitana-dir_2.jpg" alt="Sofá relax Aitana. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Aitana</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Aitana con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-aitana.html" title="Sofá relax Losbu modelo Aitana" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Aitana</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/bon/sofa-relax-bon-dir_1.jpg" alt="Sofá relax Bon. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/bon/sofa-relax-bon-dir_2.jpg" alt="Sofá relax Bon. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Bon</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Divani Star modelo Bon con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-bon.html" title="Sofá relax Divani Star modelo Bon" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Bon</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/lotus/sofa-relax-lotus-dir_1.jpg" alt="Sofá relax Lotus. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/lotus/sofa-relax-lotus-dir_2.jpg" alt="Sofá relax Lotus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Lotus</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Divani Star modelo Lotus con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-lotus.html" title="Sofá relax Divani Star modelo Lotus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Lotus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/saul/sofa-relax-saul-dir_1.jpg" alt="Sofá relax Saul. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/saul/sofa-relax-saul-dir_2.jpg" alt="Sofá relax Saul. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Saul</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Saul con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-saul.html" title="Sofá relax Losbu modelo Saul" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Saul</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/abril/sofa-relax-abril-dir_1.jpg" alt="Sofá relax Abril. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/abril/sofa-relax-abril-dir_2.jpg" alt="Sofá relax Abril. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Abril</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Abril con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-abril.html" title="Sofá relax Losbu modelo Abril" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Abril</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/beric/sofa-relax-beric-dir_1.jpg" alt="Sofá relax Beric. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/beric/sofa-relax-beric-dir_2.jpg" alt="Sofá relax Beric. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Beric</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Beric con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-beric.html" title="Sofá relax Losbu modelo Beric" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Beric</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/day/sofa-relax-day-dir_1.jpg" alt="Sofá relax Day. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/day/sofa-relax-day-dir_2.jpg" alt="Sofá relax Day. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Day</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Acomodel modelo Day con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-day.html" title="Sofá relax Acomodel modelo Day" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Day</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/saxo/sofa-relax-saxo-dir_1.jpg" alt="Sofá relax Saxo. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/saxo/sofa-relax-saxo-dir_2.jpg" alt="Sofá relax Saxo. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Saxo</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Acomodel modelo Saxo con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-saxo.html" title="Sofá relax Acomodel modelo Saxo" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Saxo</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/roger/sofa-relax-roger-dir_1.jpg" alt="Sofá relax Roger. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/roger/sofa-relax-roger-dir_2.jpg" alt="Sofá relax Roger. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Roger</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Acomodel modelo Roger con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-roger.html" title="Sofá relax Acomodel modelo Roger" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Roger</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/ambar/sofa-relax-ambar-dir_1.jpg" alt="Sofá relax Ambar. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/ambar/sofa-relax-ambar-dir_2.jpg" alt="Sofá relax Ambar. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Ambar</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Ambar con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-ambar.html" title="Sofá relax Losbu modelo Ambar" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Ambar</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/tiara/sofa-relax-tiara-dir_1.jpg" alt="Sofá relax Tiara. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/tiara/sofa-relax-tiara-dir_2.jpg" alt="Sofá relax Tiara. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Tiara</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Tiara con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-tiara.html" title="Sofá relax Losbu modelo Tiara" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Tiara</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/thais/sofa-relax-thais-dir_1.jpg" alt="Sofá relax Thais. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/thais/sofa-relax-thais-dir_2.jpg" alt="Sofá relax Thais. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Thais</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Thais con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-thais.html" title="Sofá relax Losbu modelo Thais" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Thais</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/lauro/sofa-relax-lauro-dir_1.jpg" alt="Sofá relax Lauro. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/lauro/sofa-relax-lauro-dir_2.jpg" alt="Sofá relax Lauro. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Lauro</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Lauro con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-lauro.html" title="Sofá relax Losbu modelo Lauro" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Lauro</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/elsa/sofa-relax-elsa-dir_1.jpg" alt="Sofá relax Elsa. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/elsa/sofa-relax-elsa-dir_2.jpg" alt="Sofá relax Elsa. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Elsa</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Elsa con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-elsa.html" title="Sofá relax Losbu modelo Elsa" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Elsa</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/elegant/sofa-relax-elegant-dir_1.jpg" alt="Sofá relax Elegant. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/elegant/sofa-relax-elegant-dir_2.jpg" alt="Sofá relax Elegant. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Elegant</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Divani Star modelo Elegant con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-elegant.html" title="Sofá relax Divani Star modelo Elegant" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Elegant</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/celia/sofa-relax-celia-dir_1.jpg" alt="Sofá relax Celia. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/celia/sofa-relax-celia-dir_2.jpg" alt="Sofá relax Celia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Celia</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Celia con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-celia.html" title="Sofá relax Losbu modelo Celia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Celia</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/malta/sofa-relax-malta-dir_1.jpg" alt="Sofá relax Malta. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/malta/sofa-relax-malta-dir_2.jpg" alt="Sofá relax Malta. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Malta</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Malta con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-malta.html" title="Sofá relax Losbu modelo Malta" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Malta</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/andrea/sofa-relax-andrea-dir_1.jpg" alt="Sofá relax Andrea. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/andrea/sofa-relax-andrea-dir_2.jpg" alt="Sofá relax Andrea. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Andrea</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Andrea con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-andrea.html" title="Sofá relax Losbu modelo Andrea" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Andrea</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/rex/sofa-relax-rex-dir_1.jpg" alt="Sofá relax Rex. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/rex/sofa-relax-rex-dir_2.jpg" alt="Sofá relax Rex. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Rex</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Rex con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-rex.html" title="Sofá relax Losbu modelo Rex" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Rex</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/nadia/sofa-relax-nadia-dir_1.jpg" alt="Sofá relax Nadia. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/nadia/sofa-relax-nadia-dir_2.jpg" alt="Sofá relax Nadia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Nadia</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Nadia con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-nadia.html" title="Sofá relax Losbu modelo Nadia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Nadia</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/sandy/sofa-relax-sandy-dir_1.jpg" alt="Sofá relax Sandy. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/sandy/sofa-relax-sandy-dir_2.jpg" alt="Sofá relax Sandy. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Sandy</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Sandy con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-sandy.html" title="Sofá relax Losbu modelo Sandy" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Sandy</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/vero/sofa-relax-vero-dir_1.jpg" alt="Sofá relax Vero. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/vero/sofa-relax-vero-dir_2.jpg" alt="Sofá relax Vero. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Vero</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Vero con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-vero.html" title="Sofá relax Losbu modelo Vero" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Vero</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/leire/sofa-relax-leire-dir_1.jpg" alt="Sofá relax Leire. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/leire/sofa-relax-leire-dir_2.jpg" alt="Sofá relax Leire. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Leire</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Leire con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-leire.html" title="Sofá relax Losbu modelo Leire" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Leire</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/capri/sofa-relax-capri-dir_1.jpg" alt="Sofá relax Capri. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/capri/sofa-relax-capri-dir_2.jpg" alt="Sofá relax Capri. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Capri</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Capri con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-capri.html" title="Sofá relax Losbu modelo Capri" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Capri</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/blaky/sofa-relax-blaky-dir_1.jpg" alt="Sofá relax Blaky. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/blaky/sofa-relax-blaky-dir_2.jpg" alt="Sofá relax Blaky. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Blaky</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Blaky con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-blaky.html" title="Sofá relax Losbu modelo Blaky" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Blaky</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-relax/axel/sofa-relax-axel-dir_1.jpg" alt="Sofá relax Axel. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-relax/axel/sofa-relax-axel-dir_2.jpg" alt="Sofá relax Axel. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0">
+<div class="row"><div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Axel</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá relax</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá relax Losbu modelo Axel con relax eléctrico o manual en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-relax/sofa-relax-axel.html" title="Sofá relax Losbu modelo Axel" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Axel</a>
+</figcaption></figure></div>
+<!--fin isotope item-->
+</div>
+<hr class="m_bottom_5 divider_light">
+</main>
+<aside class="col-lg-3 col-md-3 col-sm-3 m_bottom_40 m_xs_bottom_0 p_top_4">
+<!--categories widget-->
+<section class="m_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Categorias</h5>
+<hr class="divider_bg m_bottom_23">
+<ul class="categories_list second_font w_break">
+<li class="relative"><a title="Sofás 3 + 2 Plazas" href="#" class="fs_large_0 d_inline_b tr_delay fw_bold scheme_color bg_grey_light_2">Sofás 3 + 2 Plazas</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul>
+	<li class="relative"><a title="Sofás Modernos" href="sofas-modernos.html" class="tr_delay d_inline_b">Sofás Modernos</a></li>
+	<li class="relative"><a title="Sofás Clásicos" href="sofas-clasicos.html" class="tr_delay d_inline_b">Sofás Clásicos</a></li>
+	<li class="relative"><a title="Sofás con Relax" href="sofas-relax.html" class="tr_delay d_inline_b fw_bold scheme_color bg_grey_light_2">Sofás con Relax</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sofás Chaise-longue" href="#" class="fs_large_0 d_inline_b tr_delay">Sofás con Chaise-longue</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sofás con Chaise-longue" href="chaise-longue-y-rinconeras.html" class="tr_delay d_inline_b">Sofás con Chaise-longue</a></li>
+	<li class="relative"><a title="Sofás Relax con Chaise-longue" href="chaise-longue-relax.html" class="tr_delay d_inline_b">Sofás Relax con Chaise-longue</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sofás Cama" href="#" class="fs_large_0 d_inline_b tr_delay">Sofás Cama</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sofás Cama Sistema Italiano" href="sofas-cama.html" class="tr_delay d_inline_b">Sofás Cama Sistema Italiano</a></li>
+	<li class="relative"><a title="Sofás Cama Libro" href="sofas-cama-libro.html" class="tr_delay d_inline_b">Sofás Cama Libro</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sillones y Butacas" href="#" class="fs_large_0 d_inline_b tr_delay">Sillones y Butacas</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sillones Relax" href="sillones-relax.html" class="tr_delay d_inline_b">Sillones Relax</a></li>
+	<li class="relative"><a title="Butacas y Sillones " href="butacas.html" class="tr_delay d_inline_b">Butacas y Sillones</a></li>
+	<li class="relative"><a title="Poufs" href="pouf.html" class="tr_delay d_inline_b">Poufs</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Descanso" href="#" class="fs_large_0 d_inline_b tr_delay">Descanso</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Colchones" href="descanso/colchones.html" class="tr_delay d_inline_b">Colchones</a></li>
+	<li class="relative"><a title="Canapés Abatibles" href="descanso/canapes-abatibles.html" class="tr_delay d_inline_b">Canapés Abatibles</a></li>
+	<li class="relative"><a title="Cabeceros Tapizados" href="descanso/cabeceros-bases-tapizados.html" class="tr_delay d_inline_b">Cabeceros Tapizados</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Muebles" href="muebles/catalogo-muebles.html" class="fs_large_0 d_inline_b tr_delay">Muebles</a></li>
+</ul>
+</section>
+<hr class="divider_light m_bottom_5">
+<!--widget-->
+<div class="represent_wrap widget clearfix m_bottom_30">
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-lock d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Compra Segura</p>
+<small class="fw_light">Sofassinfin le garantiza que todos los datos que nos envíes están a salvo.</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-truck d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Transporte Gratis</p>
+<small class="fw_light">Envío, subida a domicilio e instalación sin coste adicional (en toda la península).</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-certificate d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Garantia Satisfacción</p>
+<small class="fw_light">Le ofrecemos una garantía de satisfacción del 100% en todos nuestros sofás.</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-credit-card d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Financiación</p>
+<small class="fw_light">Financiamos la compra de su sofá con hasta con 12 meses sin intereses.</small>
+</div>
+</section>
+</div>
+</aside>
+</div></div></div>
+<!--footer-->
+<footer role="contentinfo" class="bg_grey_light_2">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-md-6">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Horario de Apertura</h5>
+<hr class="divider_bg m_bottom_25">
+<!--tags-->
+<ul class="second_font vr_list_type_1 with_links">
+<li>Lunes - Viernes: 10.00 - 13.30 (M)</li>
+<li>Lunes - Viernes: 17.00 - 20.30 (T)</li>
+</ul>
+<p class="second_font m_bottom_15">Sabados: 10.00 - 14.00</p>
+<p class="second_font m_bottom_15">Domingos y Festivos: Cerrado</p>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Decoración</h5>
+<hr class="divider_bg m_bottom_25">
+<ul class="second_font vr_list_type_1 with_links">
+<li class="m_bottom_14"><a rel="nofollow" title="Como elegir un sofá" href="decoracion/elegir-el-sofa.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Como elegir un sofá</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Tipos de telas sofá" href="decoracion/tipos-de-telas.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Tipos de telas sofá</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Tipos de piel sofá" href="decoracion/tipos-de-piel.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Tipos de piel sofá</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Información</h5>
+<hr class="divider_bg m_bottom_25">
+<ul class="second_font vr_list_type_1 with_links">
+<li class="m_bottom_14"><a rel="nofollow" title="Guía de Compra" href="admin/guia-compra.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Guía de Compra</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Garantías" href="admin/garantia.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Garantías</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Politica de Privacidad" href="admin/politica-privacidad.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Politica de Privacidad</a></li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_35 m_xs_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Contacto</h5>
+<hr class="divider_bg m_bottom_25">
+<p class="second_font m_bottom_15"><i class="fa fa-map-marker color_dark"></i> Avda de Vigo 42, Pontevedra, 36003</p>
+<ul class="second_font vr_list_type_2 m_bottom_20">
+<li><i class="fa fa-phone color_dark fs_large"></i>986-86-69-48</li>
+</ul>
+<ul class="hr_list">
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Facebook" href="https://www.facebook.com/sofassinfin" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-facebook fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Facebook</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Twitter" href="https://twitter.com/sofassinfin" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-twitter fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Twitter</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="publisher" title="Sofassinfin en, Google+" href="https://plus.google.com/+SofassinfinEs/posts" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-google-plus fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Google Plus</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Pinterest" href="https://www.pinterest.com/sofassinfin/" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-pinterest fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Pinterest</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Youtube" href="https://www.youtube.com/user/SofassinfinGalicia" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-youtube-play fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Youtube</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Linkedin" href="https://www.linkedin.com/company/sofassinfin/" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-linkedin fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">LinkedIn</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<hr class="divider_black m_bottom_13">
+<div class="d_table w_full d_xs_block t_xs_align_c">
+<div class="col-lg-6 col-md-6 col-sm-6 color_light fw_light f_none d_table_cell v_align_m d_xs_block m_xs_bottom_10"><a rel="nofollow" title="Validación en W3C" href="http://validator.w3.org/check?uri=http%3A%2F%2Fsofassinfin.es%2Fsofas-relax.html" onClick="this.target='_blank'"><img src="images/w3c.jpg" alt="W3c" /></a> &nbsp; &copy;  2008 Bisem Rias S.L.. Todos los Derechos Reservados.</div>
+<div class="col-lg-6 col-md-6 col-sm-6 t_align_r t_xs_align_c f_none d_table_cell v_align_m d_xs_block">
+<ul class="hr_list d_inline_b">
+<li class="m_right_5"><img src="images/payment_1.jpg" alt="Visa"></li>
+<li class="m_right_5"><img src="images/payment_2.jpg" alt="Master Card"></li>
+<li class="m_right_5"><img src="images/payment_3.jpg" alt="Pago Seguro"></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!--back to top-->
+<button class="back_to_top animated button_type_6 grey state_2 d_block black_hover f_left vc_child tr_all"><i class="fa fa-angle-up d_inline_m"></i></button>
+<!--libs include-->
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/modernizr.js"></script>
+<script src="plugins/countdown/jquery.plugin.min.js"></script>
+<script src="plugins/countdown/jquery.countdown.min.js"></script>
+<script src="plugins/jquery-ui.min.js"></script>
+<script src="plugins/isotope.pkgd.min.js"></script>
+<script src="plugins/jquery.appear.js"></script>
+<script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+<script src="plugins/afterresize.min.js"></script>
+<script src="plugins/twitter/jquery.tweet.min.js"></script>
+<script src="plugins/flickr.js"></script>
+<script src="plugins/jackbox/js/jackbox-packed.min.js"></script>
+<script src="plugins/jquery.elevateZoom-3.0.8.min.js"></script>
+<script src="plugins/fancybox/jquery.fancybox.pack.js"></script>
+<script src="js/retina.min.js"></script>
+<!--theme initializer-->
+<script src="js/themeCore.js"></script>
+<script src="js/theme.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42499063-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

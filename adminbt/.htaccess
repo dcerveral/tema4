@@ -1,0 +1,38 @@
+
+RewriteEngine on
+
+ <IfModule mod_security.c>
+  
+  SecFilterScanPOST Off
+</IfModule>
+
+Options +FollowSymLinks
+
+
+ErrorDocument 404 /home.php?error=404
+
+
+RewriteRule ^img_([0-9]+).jpg/?$ img.php?id=$1 [L]
+RewriteRule ^imgcat_([0-9]+).jpg/?$ imgcat.php?id=$1 [L]
+
+RewriteRule ^/?$ index.php?pag=home [L]
+
+ 
+
+
+RewriteRule ^([^/.]+)/?$ index.php?pag=$1 [L]
+
+RewriteRule ^([^/.]+)/([0-9]+)/?$ index.php?pag=$1&id=$2&p=$2 [L]
+RewriteRule ^([^/.]+)/([0-9]+)/([0-9]+)/?$ index.php?pag=$1&id=$2&time=$3 [L]
+
+
+RewriteRule ^([^/.]+)/([^/.]+)/?$ index.php?pag=$1&tipo=$2 [L]
+RewriteRule ^([^/.]+)/([^/.]+)/([0-9]+)/?$ index.php?pag=$1&tipo=$2&p=$3 [L]
+
+<IfModule LiteSpeed> 
+CacheDisable private /
+</IfModule>
+
+<IfModule LiteSpeed>
+CacheDisable public /
+</IfModule>

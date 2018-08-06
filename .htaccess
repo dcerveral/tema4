@@ -1,0 +1,54 @@
+AuthName "En construcción"
+AuthUserFile "/home/sofahaus/.htpasswds/public_html/passwd"
+
+
+RewriteEngine on
+RewriteRule ^/?$ index.php?pag=portada [L]
+RewriteRule ^([^/.]+)/?$ index.php?pag=$1 [L]
+
+RewriteRule ^paypal/clientes/?$ index.php?pag=clientes [L]
+RewriteRule ^clientes/salir?$ index.php?pag=clientes&salir=Y [L]
+RewriteRule ^confirmar/([0-9]+)/([^/.]+)?$ index.php?pag=clientes&idcliente=$1&correo=$2 [L]
+
+
+RewriteRule ^paypal/return/?$ index.php?pag=paypal-return [L]
+RewriteRule ^paypal/cancel/?$ index.php?pag=paypal-cancel [L]
+
+RewriteRule ^tienda/carrito/?$ index.php?pag=carrito [L]
+RewriteRule ^tienda/cliente/?$ index.php?pag=carrito-cliente [L]
+RewriteRule ^tienda/envio/?$ index.php?pag=tienda-envio [L]
+RewriteRule ^tienda/pago/?$ index.php?pag=tienda-pago [L]
+RewriteRule ^tienda/([^/.]+)/?$ index.php?pag=producto&seo=$1 [L]
+
+RewriteRule ^tienda/?$ index.php?pag=tienda&p=1 [L]
+RewriteRule ^tienda/categoria/([^/.]+)/?$ index.php?pag=tienda&seo=$1 [L]
+RewriteRule ^tienda/categoria/([^/.]+)/([^/.]+)/?$ index.php?pag=tienda&categoria=$1&seo=$2 [L]
+RewriteRule ^tienda/categoria/([^/.]+)/([0-9]+)/?$ index.php?pag=tienda&seo=$1&p=$2 [L]
+
+
+RewriteRule ^pag/([^/.]+)/?$ index.php?pag=pag&opcion=$1 [L]
+
+RewriteRule ^blog/([0-9]+)/?$ index.php?pag=blog&p=$1 [L]
+RewriteRule ^blog/([^/.]+)/?$ index.php?pag=leer&seo=$1 [L]
+RewriteRule ^blog/categoria/([^/.]+)/?$ index.php?pag=blog&seo=$1 [L]
+RewriteRule ^blog/categoria/([^/.]+)/([^/.]+)/?$ index.php?pag=blog&categoria=$1&seo=$2 [L]
+RewriteRule ^blog/categoria/([^/.]+)/([0-9]+)/?$ index.php?pag=blog&seo=$1&p=$2 [L]
+
+
+
+RewriteRule ^img/logo.png/?$ img.php?tabla=clientes&id=1&foto=1 [L]
+RewriteRule ^img/icon.ico/?$ img.php?tabla=clientes&id=1&foto=2 [L]
+
+RewriteRule ^img/([^/.]+)/([0-9]+)/([^/.]+).png/?$ img.php?tabla=$1&id=$2&seo=$3 [L]
+RewriteRule ^img/([^/.]+)/([0-9]+)-([0-9]+)/([^/.]+).png/?$ img.php?tabla=$1&id=$2&foto=$3&seo=$4 [L]
+
+RewriteRule ^img/([^/.]+)/([^/.]+)/([0-9]+)/([^/.]+).png/?$ img.php?tabla=$1&ratio=$2&id=$3&seo=$4 [L]
+RewriteRule ^img/([^/.]+)/([^/.]+)/([0-9]+)-([0-9]+)/([^/.]+).png/?$ img.php?tabla=$1&ratio=$2&id=$3&foto=$4&seo=$5 [L]
+
+<IfModule LiteSpeed> 
+CacheDisable private /
+</IfModule>
+
+<IfModule LiteSpeed>
+CacheDisable public /
+</IfModule>

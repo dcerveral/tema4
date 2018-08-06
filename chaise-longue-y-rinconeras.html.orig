@@ -1,0 +1,1339 @@
+<!doctype html>
+<html lang="es">
+<head>
+<title>Sofás con chaise-longue en piel y tela. Sofassinfin</title>
+<meta name="description" content="Los sofás chaise-longue y sofás rinconeros dotan al salón de comodidad y elegancia. Vea nuestro catálogo de sofás modulares en piel o tela.">
+<meta name="keywords" content="sofas chaise-longue, chaise-longue">
+<!--meta info-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="author" content="Bisem Rias SL">
+<!--add responsive layout support-->
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!--include favicon-->
+<link rel="shortcut icon" type="image/x-icon" href="images/fav.ico">
+<!--stylesheet include-->
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/animate.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/jackbox/css/jackbox.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/fancybox/jquery.fancybox.css">
+<!--fonts include-->
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic,300italic,100italic,100,700italic,900,900italic,700' rel='stylesheet' type='text/css'>
+<!--stylesheet include-->
+		<!--[if lte IE 10]>
+			<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+			<link rel="stylesheet" type="text/css" media="screen" href="plugins/jackbox/css/jackbox-ie9.css">
+		<![endif]-->
+		<!--head libs-->
+		<!--[if lte IE 8]>
+			<style>
+				#preloader{display:none !important;}
+			</style>
+		<![endif]-->
+</head>
+<body class="sticky_menu">
+		<!--layout-->
+<div class="wide_layout db_centered bg_white">
+			<!--[if (lt IE 9) | IE 9]>
+				<div class="bg_red" style="padding:5px 0 12px;">
+				<div class="container" style="width:1170px;"><div class="row wrapper"><div class="clearfix color_white" style="padding:9px 0 0;float:left;width:80%;"><i class="fa fa-exclamation-triangle f_left m_right_10" style="font-size:25px;"></i><b>Attention! This page may not display correctly.</b> <b>You are using an outdated version of Internet Explorer. For a faster, safer browsing experience.</b></div><div class="t_align_r" style="float:left;width:20%;"><a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode" class="button_type_1 d_block f_right lbrown tr_all second_font fs_medium" target="_blank" style="margin-top:6px;">Update Now!</a></div></div></div></div>
+			<![endif]-->
+<header role="banner" class="w_inherit">
+<!--top part-->
+<div class="header_top_part bg_grey_light_2">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4 t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0">
+<!--shop nav-->
+<nav class="d_xs_inline_b">
+<ul class="hr_list second_font si_list fs_small">
+<li><a class="sc_hover d_inline_b" title="Inicio" href="./">Inicio</a></li>
+<li><a class="sc_hover d_inline_b" title="Blog" href="blog/">Blog</a></li>
+<li><a class="sc_hover d_inline_b" rel="nofollow" title="Cientes" href="clientes/">Área Clientes</a></li>
+</ul>
+</nav>
+</div>
+<div class="col-lg-4 col-md-5 col-sm-4 fs_small color_light fw_light t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0"><p class="scheme_color">Necesitas Ayuda?  Tfno: 986.86.69.48</p></div>
+<div class="col-lg-4 col-md-5 col-sm-4 fs_small color_light fw_light t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0">
+<!--currency-->
+<div class="f_right relative transform3d">
+<b class="scheme_color">Tienda online de Sofás Chaise-longue</b> &nbsp; A. Vigo 42. Pontevedra &nbsp; 
+</div></div></div></div></div>
+<div class="header_middle_part t_xs_align_c">
+<div class="container">
+<div class="d_table w_full d_xs_block">
+<div class="col-lg-4 col-md-4 col-sm-4 d_table_cell d_xs_block f_none v_align_m m_xs_bottom_15">
+<!--logo-->
+<a rel="nofollow" href="./" title="Inicio" class="d_inline_b"><img src="images/logo.png" alt="Logotipo Sofassinfin"></a>
+</div>
+<div class="col-lg-8 col-md-8 col-sm-8 d_table_cell d_xs_block f_none v_align_m">
+<div class="clearfix">
+<div class="clearfix f_right f_xs_none d_xs_inline_b m_xs_bottom_15 t_xs_align_l">
+<!--currency-->
+<div class="f_right relative transform3d">
+<form action="admin/atencion-al-cliente.html" class="sc_hover"><button class="button_type_1 tr_all second_font color_dark grey state_2 fs_small" data-open-dropdown="#currency"><i class="fa fa-user d_inline_m m_right_5"></i> Contacto</button></form> 
+</div>
+<!--login-->
+<div class="f_right m_right_3 relative transform3d">
+<button class="button_type_1 tr_all second_font color_dark grey state_2" data-open-dropdown="#login"><i class="fa fa-phone d_inline_m m_right_5"></i> <span class="fs_small">Te llamamos</span></button>
+<div id="login" data-show="fadeInUp" data-hide="fadeOutDown" class="dropdown bg_grey_light login_dropdown animated">
+<form action="php/llamamos.php" method="post" id="llamamosform" class="m_bottom_15">
+<ul>
+<li class="m_bottom_15">
+<label for="name" class="second_font m_bottom_4 d_inline_b fs_medium">Nombre</label>
+<input type="text" name="name" id="name" placeholder="Su nombre" class="w_full tr_all" required/>
+</li>
+<li class="m_bottom_20">
+<label for="telefono" class="second_font m_bottom_4 d_inline_b fs_medium">Teléfono</label>
+<input type="text" name="telefono" id="telefono" placeholder="Su Teléfono" class="w_full tr_all" required/>
+</li>
+<li>
+<button type="submit" value="Enviar" class="t_align_c tt_uppercase w_full second_font d_block fs_medium button_type_2 lbrown tr_all">Enviar</button>
+</li>
+</ul>
+</form>
+</div></div></div></div></div></div></div></div>
+<div class="header_bottom_part bg_white w_inherit">
+<div class="container">
+<hr class="divider_black">
+<div class="row">
+<div class="col-lg-9 col-md-9">
+<button id="mobile_menu_button" class="vc_child d_xs_block db_xs_centered d_none m_bottom_10 m_top_15 bg_lbrown color_white tr_all"><i class="fa fa-navicon d_inline_m"></i> MENÚ</button>
+<!--main menu-->
+<nav role="navigation" class="d_xs_none">
+<ul class="main_menu relative hr_list second_font fs_medium">
+<li><a title="Sofás 3 + 2 Plazas" href="#" class="tt_uppercase tr_delay">Sofás 3 + 2 Plazas <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás Modernos" href="sofas-modernos.html">Sofás Modernos</a></li>
+<li><a title="Sofás Clásicos" href="sofas-clasicos.html">Sofás Clásicos</a></li>
+<li><a title="Sofás Relax" href="sofas-relax.html">Sofás Relax</a></li>
+</ul>
+<li><a title="Sofá Chaise-longue" href="#" class="tt_uppercase tr_delay">Sofá Chaise-longue <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás con Chaise-longue" href="chaise-longue-y-rinconeras.html">Sofás con Chaise-longue</a></li>
+<li><a title="Sofás Relax con Chaise-longue" href="chaise-longue-relax.html">Sofás Relax con Chaise-longue</a></li>
+</ul>
+</li>
+<li><a title="Sofá Cama" href="#" class="tt_uppercase tr_delay">Sofá Cama <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás Cama" href="sofas-cama.html">Sofás Cama</a></li>
+<li><a title="Sofás Cama Libro" href="sofas-cama-libro.html">Sofás Cama Libro</a></li>
+</ul>
+</li>
+<li><a title="Sillón" href="#" class="tt_uppercase tr_delay">Sillón <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sillones Relax" href="sillones-relax.html">Sillones Relax</a></li>
+<li><a title="Butacas" href="butacas.html">Butacas</a></li>
+<li><a title="Poufs" href="pouf.html">Poufs</a></li>
+</ul>
+</li>
+<li><a title="Descanso" href="#" class="tt_uppercase tr_delay">Descanso <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Colchones" href="descanso/colchones.html">Colchones</a></li>
+<li><a title="Canapés Abatibles" href="descanso/canapes-abatibles.html">Canapés Abatibles</a></li>
+<li><a title="Cabeceros Tapizados" href="descanso/cabeceros-bases-tapizados.html">Cabeceros Tapizados</a></li>
+</ul>
+</li>
+<li><a title="Muebles" href="muebles/catalogo-muebles.html" class="tt_uppercase tr_delay">Muebles</a></li>
+</ul>
+</nav>
+</div></div></div></div>
+</header>
+<!--breadcrumbs-->
+<div class="breadcrumbs bg_grey_light_2 fs_medium fw_light">
+<div class="container">
+<a rel="nofollow" href="./" title="Inicio" class="sc_hover">Inicio</a> <span class="color_dark">/</span> Sofás con Chaise-longue y Sofás Rinconera
+</div>
+</div>
+<!--main content-->
+<div class="page_section_offset">
+<div class="container">
+<div class="row">
+<main class="col-lg-9 col-md-9 col-sm-9 m_bottom_30 m_xs_bottom_10">
+<h1 class="fw_light second_font color_dark tt_uppercase m_bottom_27">Sofás con Chaise-longue y Sofás Rinconera</h1>
+<figure class="m_bottom_45 m_xs_bottom_30">
+<img src="images/category_img_04.jpg" alt="Sofás con Chaise-longue y Sofás Rinconera" class="m_bottom_15">
+<figcaption>
+<p class="fw_light">Catálogo de sofás con chaise-longue tapizados en piel o tela que dotan a nuestro salón de comodidad y elegancia. Los <b>sofás de 2 y 3 plazas + chaise-longue</b> modernos y actuales tiene la ventaja de tener un gran sofá y un espacio extra para relajarse cómodamente.</p>
+</figcaption>
+</figure>
+<div class="d_table w_full m_bottom_5">
+<div class="col-lg-6 col-md-6 col-sm-6 d_xs_block v_align_m d_table_cell f_none fs_medium color_light fw_light m_xs_bottom_5">
+<div class="d_block fs_large">Catálogo </div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 d_xs_block v_align_m d_table_cell f_none t_align_r t_xs_align_l p_xs_left_0">
+<p class="fw_light fs_medium d_inline_m m_right_5 color_light">Ver en:</p>
+<div class="clearfix d_inline_m">
+<button data-isotope-layout="grid" data-isotope-container="#can_change_layout" class="button_type_4 f_left grey state_2 m_right_5 tr_all second_font tt_uppercase vc_child black_button_active"><i class="fa fa-th m_top_0 d_inline_m"></i></button>
+<button data-isotope-layout="list" data-isotope-container="#can_change_layout" class="button_type_4 f_left grey state_2 tr_all second_font tt_uppercase vc_child black_hover"><i class="fa fa-th-list m_top_0 d_inline_m"></i></button>
+</div></div></div>
+<hr class="divider_light m_bottom_5">
+<!--isotope-->
+<div id="can_change_layout" class="category_isotope_container three_columns wrapper m_bottom_10 m_xs_bottom_0" data-isotope-options='{
+								"itemSelector": ".category_isotope_item",
+					  			"layoutMode": "fitRows"
+							}'>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/memory/sofa-chaiselongue-memory-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Memory. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/memory/sofa-chaiselongue-memory-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Memory. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Memory</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Memory de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-memory.html" title="Sofá con chaise-longue Acomodel modelo Memory" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Memory</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/zeus/sofa-chaiselongue-zeus-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Zeus. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/zeus/sofa-chaiselongue-zeus-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Zeus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Zeus</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Zeus de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-zeus.html" title="Sofá con chaise-longue Divani Star modelo Zeus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Zeus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/seel/sofa-chaiselongue-seel-dir_1.jpg" alt="Sofá con chaise-longue Quality Seel. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/seel/sofa-chaiselongue-seel-dir_2.jpg" alt="Sofá con chaise-longue Quality Seel. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Quality Seel</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Seel de Quality tapizado en tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-seel.html" title="Sofá con chaise-longue Quality modelo Seel" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Seel</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/gyn/sofa-chaiselongue-gyn-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Gyn. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/gyn/sofa-chaiselongue-gyn-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Gyn. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Gyn</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Gyn de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-gyn.html" title="Sofá con chaise-longue Divani Star modelo Gyn" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Gyn</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/loewe/sofa-chaiselongue-loewe-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Loewe. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/loewe/sofa-chaiselongue-loewe-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Loewe. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Loewe</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Loewe de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-loewe.html" title="Sofá con chaise-longue Divani Star modelo Loewe" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Loewe</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/dylan/sofa-chaiselongue-dylan-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Dylan. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/dylan/sofa-chaiselongue-dylan-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Dylan. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Dylan</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Dylan de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-dylan.html" title="Sofá con chaise-longue Divani Star modelo Dylan" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Dylan</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/trento/sofa-chaiselongue-trento-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Trento. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/trento/sofa-chaiselongue-trento-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Trento. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Trento</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Trento de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-trento.html" title="Sofá con chaise-longue Divani Star modelo Trento" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Trento</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/channel/sofa-chaiselongue-channel-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Channel. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/channel/sofa-chaiselongue-channel-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Channel. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Channel</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Channel de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-channel.html" title="Sofá con chaise-longue Divani Star modelo Channel" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Channel DVN</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/mito/sofa-chaiselongue-mito-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Mito. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/mito/sofa-chaiselongue-mito-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Mito. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Mito</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Mito de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-mito.html" title="Sofá con chaise-longue Divani Star modelo Mito" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Mito</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/brandon/sofa-chaiselongue-brandon-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Brandon. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/brandon/sofa-chaiselongue-brandon-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Brandon. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Brandon</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Brandon de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-brandon.html" title="Sofá con chaise-longue Divani Star modelo Brandon" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Brandon</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/alaska/sofa-chaiselongue-alaska-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Alaska. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/alaska/sofa-chaiselongue-alaska-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Alaska. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Alaska</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Alaska de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-alaska.html" title="Sofá con chaise-longue Divani Star modelo Alaska" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Alaska</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/diva/sofa-chaiselongue-diva-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Diva. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/diva/sofa-chaiselongue-diva-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Diva. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Diva</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Diva de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-diva.html" title="Sofá con chaise-longue Acomodel modelo Diva" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Diva</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/habitat/sofa-chaiselongue-habitat-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Habitat. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/habitat/sofa-chaiselongue-habitat-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Habitat. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Habitat</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Habitat de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-habitat.html" title="Sofá con chaise-longue Acomodel modelo Habitat" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Habitat</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/dior/sofa-chaiselongue-dior-dir_1.jpg" alt="Sofá con chaise-longue Gamamobel Dior. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/dior/sofa-chaiselongue-dior-dir_2.jpg" alt="Sofá con chaise-longue Gamamobel Dior. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Dior</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Dior de Gamamobel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-dior.html" title="Sofá con chaise-longue Gamamobel modelo Dior" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Dior</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/jano/sofa-chaiselongue-jano-dir_1.jpg" alt="Sofá con chaise-longue Losbu Jano. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/jano/sofa-chaiselongue-jano-dir_2.jpg" alt="Sofá con chaise-longue Losbu Jano. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Jano</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Jano fabricado por Losbu y tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-jano.html" title="Sofá con chaise-longue Losbu modelo Jano" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Jano</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/gliss/sofa-chaiselongue-gliss-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Gliss. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/gliss/sofa-chaiselongue-gliss-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Gliss. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Gliss</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Gliss de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-gliss.html" title="Sofá con chaise-longue Acomodel modelo Gliss" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Gliss</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/impala/sofa-chaiselongue-impala-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Impala. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/impala/sofa-chaiselongue-impala-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Impala. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Impala</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Impala de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-impala.html" title="Sofá con chaise-longue Acomodel modelo Impala" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Impala</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/titan/sofa-chaiselongue-titan-dir_1.jpg" alt="Sofá con chaise-longue Losbu Titan. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/titan/sofa-chaiselongue-titan-dir_2.jpg" alt="Sofá con chaise-longue Losbu Titan. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Titan</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Titan fabricado por Losbu y tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-titan.html" title="Sofá con chaise-longue Losbu modelo Titan" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Titan</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/valeria/sofa-chaiselongue-valeria-dir_1.jpg" alt="Sofá rinconera Losbu Valeria. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/valeria/sofa-chaiselongue-valeria-dir_2.jpg" alt="Sofá rinconera Losbu Valeria. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Valeria</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá rinconera</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Valeria fabricado por Losbu y tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-valeria.html" title="Sofá rinconera Losbu modelo Valeria" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Valeria</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/truman/sofa-chaiselongue-truman-dir_1.jpg" alt="Sofá rinconera Losbu Truman. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/truman/sofa-chaiselongue-truman-dir_2.jpg" alt="Sofá rinconera Losbu Truman. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Truman</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá rinconera</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Truman fabricado por Losbu y tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-truman.html" title="Sofá rinconera Losbu modelo Truman" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Truman</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/house/sofa-chaiselongue-house-dir_1.jpg" alt="Sofá con chaise-longue Divani Star House. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/house/sofa-chaiselongue-house-dir_2.jpg" alt="Sofá con chaise-longue Divani Star House. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star House</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo House de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-house.html" title="Sofá con chaise-longue Divani Star modelo House" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> House</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/mar/sofa-chaiselongue-mar-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Mar. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/mar/sofa-chaiselongue-mar-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Mar. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Mar</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Mar de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-mar.html" title="Sofá con chaise-longue Acomodel modelo Mar" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Mar</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/vintage/sofa-chaiselongue-vintage-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Vintage. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/vintage/sofa-chaiselongue-vintage-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Vintage. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Vintage</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Vintage de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-vintage.html" title="Sofá con chaise-longue Divani Star modelo Vintage" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Vintage</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/chanel-quality/sofa-chaiselongue-chanel-quality-dir_1.jpg" alt="Sofá con chaise-longue Quality Chanel. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/chanel-quality/sofa-chaiselongue-chanel-quality-dir_2.jpg" alt="Sofá con chaise-longue Quality Chanel. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Quality Chanel</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Chanel de Quality tapizado en tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-chanel-quality.html" title="Sofá con chaise-longue Quality modelo Chanel" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Chanel</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/danco/sofa-chaiselongue-danco-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Danco. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/danco/sofa-chaiselongue-danco-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Danco. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Danco</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Danco de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-danco.html" title="Sofá con chaise-longue Acomodel modelo Danco" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Danco</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/boro/sofa-chaiselongue-boro-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Boro. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/boro/sofa-chaiselongue-boro-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Boro. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Boro</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Boro de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-boro.html" title="Sofá con chaise-longue Divani Star modelo Boro" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Boro</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/milano/sofa-chaiselongue-milano-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Milano. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/milano/sofa-chaiselongue-milano-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Milano. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Milano</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Milano de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-milano.html" title="Sofá con chaise-longue Acomodel modelo Milano" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Milano</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/tonic/sofa-chaiselongue-tonic-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Tonic. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/tonic/sofa-chaiselongue-tonic-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Tonic. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Tonic</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Tonic de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-tonic.html" title="Sofá con chaise-longue Divani Star modelo Tonic" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Tonic</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/jaguar/sofa-chaiselongue-jaguar-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Jaguar. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/jaguar/sofa-chaiselongue-jaguar-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Jaguar. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Jaguar</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Jaguar de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-jaguar.html" title="Sofá con chaise-longue Divani Star modelo Jaguar" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Jaguar</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/daccia/sofa-chaiselongue-daccia-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Daccia. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/daccia/sofa-chaiselongue-daccia-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Daccia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Daccia</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Daccia de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-daccia.html" title="Sofá con chaise-longue Acomodel modelo Daccia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Daccia</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/oberon/sofa-chaiselongue-oberon-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Oberon. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/oberon/sofa-chaiselongue-oberon-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Oberon. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Oberon</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Oberon de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-oberon.html" title="Sofá con chaise-longue Divani Star modelo Oberon" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Oberon</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/barak/sofa-chaiselongue-barak-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Barak. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/barak/sofa-chaiselongue-barak-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Barak. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Barak</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Barak de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-barak.html" title="Sofá con chaise-longue Divani Star modelo Barak" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Barak</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/botero/sofa-chaiselongue-botero-dir_1.jpg" alt="Sofá con chaise-longue Gamamobel Botero. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/botero/sofa-chaiselongue-botero-dir_2.jpg" alt="Sofá con chaise-longue Gamamobel Botero. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Botero</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Botero de Gamamobel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-botero.html" title="Sofá con chaise-longue Gamamobel modelo Botero" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Botero</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/casino/sofa-chaiselongue-casino-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Casino. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/casino/sofa-chaiselongue-casino-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Casino. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Casino</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Casino de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-casino.html" title="Sofá con chaise-longue Divani Star modelo Casino" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Casino</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/greco/sofa-chaiselongue-greco-dir_1.jpg" alt="Sofá con chaise-longue Gamamobel Greco. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/greco/sofa-chaiselongue-greco-dir_2.jpg" alt="Sofá con chaise-longue Gamamobel Greco. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Greco</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Greco de Gamamobel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-greco.html" title="Sofá con chaise-longue Gamamobel modelo Greco" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Greco</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/miro/sofa-chaiselongue-miro-dir_1.jpg" alt="Sofá con chaise-longue Gamamobel Miró. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/miro/sofa-chaiselongue-miro-dir_2.jpg" alt="Sofá con chaise-longue Gamamobel Miró. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Miró</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Miró de Gamamobel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-miro.html" title="Sofá con chaise-longue Gamamobel modelo Miró" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Miró</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/bizet/sofa-chaiselongue-bizet-dir_1.jpg" alt="Sofá con chaise-longue Losbu Bizet. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/bizet/sofa-chaiselongue-bizet-dir_2.jpg" alt="Sofá con chaise-longue Losbu Bizet. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Bizet</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Bizet de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-bizet.html" title="Sofá con chaise-longue Losbu modelo Bizet" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Bizet</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/blus/sofa-chaiselongue-blus-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Blus. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/blus/sofa-chaiselongue-blus-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Blus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Blus</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Blus de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-blus.html" title="Sofá con chaise-longue Acomodel modelo Blus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Blus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/mauro/sofa-chaiselongue-mauro-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Mauro. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/mauro/sofa-chaiselongue-mauro-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Mauro. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Mauro</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Mauro de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-mauro.html" title="Sofá con chaise-longue Acomodel modelo Mauro" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Mauro</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/sublime/sofa-chaiselongue-sublime-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Sublime. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/sublime/sofa-chaiselongue-sublime-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Sublime. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Sublime</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Sublime de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-sublime.html" title="Sofá con chaise-longue Acomodel modelo Sublime" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Sublime</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/vila/sofa-chaiselongue-vila-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Vila. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/vila/sofa-chaiselongue-vila-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Vila. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Vila</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Vila de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-vila.html" title="Sofá con chaise-longue Divani Star modelo Vila" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Vila</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/amadeus/sofa-chaiselongue-amadeus-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Amadeus. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/amadeus/sofa-chaiselongue-amadeus-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Amadeus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Amadeus</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Amadeus de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-amadeus.html" title="Sofá con chaise-longue Divani Star modelo Amadeus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Amadeus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/doha/sofa-chaiselongue-doha-dir_1.jpg" alt="Sofá con chaise-longue Quality Doha. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/doha/sofa-chaiselongue-doha-dir_2.jpg" alt="Sofá con chaise-longue Quality Doha. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Quality Doha</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Doha de Quality tapizado en tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-doha.html" title="Sofá con chaise-longue Quality modelo Doha" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Doha</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/elegant/sofa-chaiselongue-elegant-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Elegant. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/elegant/sofa-chaiselongue-elegant-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Elegant. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Elegant</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Elegant de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-elegant.html" title="Sofá con chaise-longue Divani Star modelo Elegant" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Elegant</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/game/sofa-chaiselongue-game-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Game. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/game/sofa-chaiselongue-game-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Game. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Game</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Game de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-game.html" title="Sofá con chaise-longue Acomodel modelo Game" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Game</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/habana/sofa-chaiselongue-habana-dir_1.jpg" alt="Sofá con chaise-longue Losbu Habana. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/habana/sofa-chaiselongue-habana-dir_2.jpg" alt="Sofá con chaise-longue Losbu Habana. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Habana</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Habana de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-habana.html" title="Sofá con chaise-longue Losbu modelo Habana" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Habana</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/lotus-divani/sofa-chaiselongue-lotus-divani-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Lotus. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/lotus-divani/sofa-chaiselongue-lotus-divani-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Lotus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Lotus</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Lotus de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-lotus-divani.html" title="Sofá con chaise-longue Divani Star modelo Lotus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Lotus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/rocter/sofa-chaiselongue-rocter-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Rocter. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/rocter/sofa-chaiselongue-rocter-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Rocter. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Rocter</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Rocter de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-rocter.html" title="Sofá con chaise-longue Acomodel modelo Rocter" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Rocter</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/neo/sofa-chaiselongue-neo-dir_1.jpg" alt="Sofá con chaise-longue Divani Star Neo. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/neo/sofa-chaiselongue-neo-dir_2.jpg" alt="Sofá con chaise-longue Divani Star Neo. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Neo</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Neo de Divani Star tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-neo.html" title="Sofá con chaise-longue Divani Star modelo Neo" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Neo</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/suprem/sofa-chaiselongue-suprem-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Suprem. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/suprem/sofa-chaiselongue-suprem-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Suprem. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Suprem</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Suprem de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-suprem.html" title="Sofá con chaise-longue Acomodel modelo Suprem" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Suprem</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/tessa/sofa-chaiselongue-tessa-dir_1.jpg" alt="Sofá con chaise-longue Losbu Tessa. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/tessa/sofa-chaiselongue-tessa-dir_2.jpg" alt="Sofá con chaise-longue Losbu Tessa. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Tessa</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Tessa de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-tessa.html" title="Sofá con chaise-longue Losbu modelo Tessa" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Tessa</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/adagio/sofa-chaiselongue-adagio-dir_1.jpg" alt="Sofá con chaise-longue Gamamobel Adagio. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/adagio/sofa-chaiselongue-adagio-dir_2.jpg" alt="Sofá con chaise-longue Gamamobel Adagio. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Adagio</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Adagio de Gamamobel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-adagio.html" title="Sofá con chaise-longue Gamamobel modelo Adagio" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Adagio</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/nina/sofa-chaiselongue-nina-dir_1.jpg" alt="Sofá con chaise-longue Losbu Nina. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/nina/sofa-chaiselongue-nina-dir_2.jpg" alt="Sofá con chaise-longue Losbu Nina. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Nina</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Nina de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-nina.html" title="Sofá con chaise-longue Losbu modelo Nina" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Nina</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/catai/sofa-chaiselongue-catai-dir_1.jpg" alt="Sofá con chaise-longue Gamamobel Catai. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/catai/sofa-chaiselongue-catai-dir_2.jpg" alt="Sofá con chaise-longue Gamamobel Catai. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Catai</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Catai de Gamamobel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-catai.html" title="Sofá con chaise-longue Gamamobel modelo Catai" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Catai</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/gemma/sofa-chaiselongue-gemma-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Gemma. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/gemma/sofa-chaiselongue-gemma-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Gemma. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Gemma</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Gemma de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-gemma.html" title="Sofá con chaise-longue Acomodel modelo Gemma" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Gemma</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/omega/sofa-chaiselongue-omega-dir_1.jpg" alt="Sofá rinconera Losbu Omega. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/omega/sofa-chaiselongue-omega-dir_2.jpg" alt="Sofá rinconera Losbu Omega. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Omega</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá rinconera</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Omega de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-omega.html" title="Sofá rinconera Losbu modelo Omega" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Omega</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/tirso/sofa-chaiselongue-tirso-dir_1.jpg" alt="Sofá con chaise-longue Losbu Tirso. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/tirso/sofa-chaiselongue-tirso-dir_2.jpg" alt="Sofá con chaise-longue Losbu Tirso. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Tirso</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Tirso de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-tirso.html" title="Sofá con chaise-longue Losbu modelo Tirso" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Tirso</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/costa/sofa-chaiselongue-costa-dir_1.jpg" alt="Sofá con chaise-longue Losbu Costa. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/costa/sofa-chaiselongue-costa-dir_2.jpg" alt="Sofá con chaise-longue Losbu Costa. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Costa</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Costa de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-costa.html" title="Sofá con chaise-longue Losbu modelo Costa" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Costa</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/magno/sofa-chaiselongue-magno-dir_1.jpg" alt="Sofá con chaise-longue Acomodel Magno. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/magno/sofa-chaiselongue-magno-dir_2.jpg" alt="Sofá con chaise-longue Acomodel Magno. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Magno</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Magno de Acomodel tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-magno.html" title="Sofá con chaise-longue Acomodel modelo Magno" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Magno</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="cheslong/amelia/sofa-chaiselongue-amelia-dir_1.jpg" alt="Sofá con chaise-longue Losbu Amelia. Imagen1" class="c_image_1 tr_all">
+<img src="cheslong/amelia/sofa-chaiselongue-amelia-dir_2.jpg" alt="Sofá con chaise-longue Losbu Amelia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Amelia</p>
+<div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá chaise-longue</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá 2 y 3 plazas con chaiselongue modelo Amelia de Losbu tapizado en piel y tela.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="cheslong/chaise-longue-amelia.html" title="Sofá con chaise-longue Losbu modelo Amelia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Amelia</a>
+</figcaption></figure></div>
+<!--fin isotope item-->
+</div>
+<hr class="m_bottom_5 divider_light">
+</main>
+<aside class="col-lg-3 col-md-3 col-sm-3 m_bottom_40 m_xs_bottom_0 p_top_4">
+<!--categories widget-->
+<section class="m_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Categorias</h5>
+<hr class="divider_bg m_bottom_23">
+<ul class="categories_list second_font w_break">
+<li class="relative"><a title="Sofás 3 + 2 Plazas" href="#" class="fs_large_0 d_inline_b tr_delay">Sofás 3 + 2 Plazas</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sofás Modernos" href="sofas-modernos.html" class="tr_delay d_inline_b">Sofás Modernos</a></li>
+	<li class="relative"><a title="Sofás Clásicos" href="sofas-clasicos.html" class="tr_delay d_inline_b">Sofás Clásicos</a></li>
+	<li class="relative"><a title="Sofás con Relax" href="sofas-relax.html" class="tr_delay d_inline_b">Sofás con Relax</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sofás Chaise-longue" href="#" class="fs_large_0 d_inline_b tr_delay fw_bold scheme_color bg_grey_light_2">Sofás con Chaise-longue</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul>
+	<li class="relative"><a title="Sofás con Chaise-longue" href="chaise-longue-y-rinconeras.html" class="tr_delay d_inline_b fw_bold scheme_color bg_grey_light_2">Sofás con Chaise-longue</a></li>
+	<li class="relative"><a title="Sofás Relax con Chaise-longue" href="chaise-longue-relax.html" class="tr_delay d_inline_b">Sofás Relax con Chaise-longue</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sofás Cama" href="#" class="fs_large_0 d_inline_b tr_delay">Sofás Cama</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sofás Cama Sistema Italiano" href="sofas-cama.html" class="tr_delay d_inline_b">Sofás Cama Sistema Italiano</a></li>
+	<li class="relative"><a title="Sofás Cama Libro" href="sofas-cama-libro.html" class="tr_delay d_inline_b">Sofás Cama Libro</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sillones y Butacas" href="#" class="fs_large_0 d_inline_b tr_delay">Sillones y Butacas</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sillones Relax" href="sillones-relax.html" class="tr_delay d_inline_b">Sillones Relax</a></li>
+	<li class="relative"><a title="Butacas y Sillones " href="butacas.html" class="tr_delay d_inline_b">Butacas y Sillones</a></li>
+	<li class="relative"><a title="Poufs" href="pouf.html" class="tr_delay d_inline_b">Poufs</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Descanso" href="#" class="fs_large_0 d_inline_b tr_delay">Descanso</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Colchones" href="descanso/colchones.html" class="tr_delay d_inline_b">Colchones</a></li>
+	<li class="relative"><a title="Canapés Abatibles" href="descanso/canapes-abatibles.html" class="tr_delay d_inline_b">Canapés Abatibles</a></li>
+	<li class="relative"><a title="Cabeceros Tapizados" href="descanso/cabeceros-bases-tapizados.html" class="tr_delay d_inline_b">Cabeceros Tapizados</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Muebles" href="muebles/catalogo-muebles.html" class="fs_large_0 d_inline_b tr_delay">Muebles</a></li>
+</ul>
+</section>
+<hr class="divider_light m_bottom_5">
+<!--widget-->
+<div class="represent_wrap widget clearfix m_bottom_30">
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-lock d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Compra Segura</p>
+<small class="fw_light">Sofassinfin le garantiza que todos los datos que nos envíes están a salvo.</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-truck d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Transporte Gratis</p>
+<small class="fw_light">Envío, subida a domicilio e instalación sin coste adicional (en toda la península).</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-certificate d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Garantia Satisfacción</p>
+<small class="fw_light">Le ofrecemos una garantía de satisfacción del 100% en todos nuestros sofás.</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-credit-card d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Financiación</p>
+<small class="fw_light">Financiamos la compra de su sofá con hasta con 12 meses sin intereses.</small>
+</div>
+</section>
+</div>
+</aside>
+</div></div></div>
+<!--footer-->
+<footer role="contentinfo" class="bg_grey_light_2">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-md-6">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Horario de Apertura</h5>
+<hr class="divider_bg m_bottom_25">
+<!--tags-->
+<ul class="second_font vr_list_type_1 with_links">
+<li>Lunes - Viernes: 10.00 - 13.30 (M)</li>
+<li>Lunes - Viernes: 17.00 - 20.30 (T)</li>
+</ul>
+<p class="second_font m_bottom_15">Sabados: 10.00 - 14.00</p>
+<p class="second_font m_bottom_15">Domingos y Festivos: Cerrado</p>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Decoración</h5>
+<hr class="divider_bg m_bottom_25">
+<ul class="second_font vr_list_type_1 with_links">
+<li class="m_bottom_14"><a rel="nofollow" title="Como elegir un sofá" href="decoracion/elegir-el-sofa.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Como elegir un sofá</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Tipos de telas sofá" href="decoracion/tipos-de-telas.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Tipos de telas sofá</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Tipos de piel sofá" href="decoracion/tipos-de-piel.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Tipos de piel sofá</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Información</h5>
+<hr class="divider_bg m_bottom_25">
+<ul class="second_font vr_list_type_1 with_links">
+<li class="m_bottom_14"><a rel="nofollow" title="Guía de Compra" href="admin/guia-compra.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Guía de Compra</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Garantías" href="admin/garantia.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Garantías</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Politica de Privacidad" href="admin/politica-privacidad.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Politica de Privacidad</a></li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_35 m_xs_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Contacto</h5>
+<hr class="divider_bg m_bottom_25">
+<p class="second_font m_bottom_15"><i class="fa fa-map-marker color_dark"></i> Avda de Vigo 42, Pontevedra, 36003</p>
+<ul class="second_font vr_list_type_2 m_bottom_20">
+<li><i class="fa fa-phone color_dark fs_large"></i>986-86-69-48</li>
+</ul>
+<ul class="hr_list">
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Facebook" href="https://www.facebook.com/sofassinfin" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-facebook fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Facebook</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Twitter" href="https://twitter.com/sofassinfin" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-twitter fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Twitter</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="publisher" title="Sofassinfin en, Google+" href="https://plus.google.com/+SofassinfinEs/posts" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-google-plus fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Google Plus</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Pinterest" href="https://www.pinterest.com/sofassinfin/" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-pinterest fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Pinterest</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Youtube" href="https://www.youtube.com/user/SofassinfinGalicia" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-youtube-play fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Youtube</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Linkedin" href="https://www.linkedin.com/company/sofassinfin/" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-linkedin fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">LinkedIn</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<hr class="divider_black m_bottom_13">
+<div class="d_table w_full d_xs_block t_xs_align_c">
+<div class="col-lg-6 col-md-6 col-sm-6 color_light fw_light f_none d_table_cell v_align_m d_xs_block m_xs_bottom_10"><a rel="nofollow" title="Validación en W3C" href="http://validator.w3.org/check?uri=http%3A%2F%2Fsofassinfin.es%2Fchaise-longue-y-rinconeras.html" onClick="this.target='_blank'"><img src="images/w3c.jpg" alt="W3c" /></a> &nbsp; &copy;  2008 Bisem Rias S.L.. Todos los Derechos Reservados.</div>
+<div class="col-lg-6 col-md-6 col-sm-6 t_align_r t_xs_align_c f_none d_table_cell v_align_m d_xs_block">
+<ul class="hr_list d_inline_b">
+<li class="m_right_5"><img src="images/payment_1.jpg" alt="Visa"></li>
+<li class="m_right_5"><img src="images/payment_2.jpg" alt="Master Card"></li>
+<li class="m_right_5"><img src="images/payment_3.jpg" alt="Pago Seguro"></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!--back to top-->
+<button class="back_to_top animated button_type_6 grey state_2 d_block black_hover f_left vc_child tr_all"><i class="fa fa-angle-up d_inline_m"></i></button>
+<!--libs include-->
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/modernizr.js"></script>
+<script src="plugins/countdown/jquery.plugin.min.js"></script>
+<script src="plugins/countdown/jquery.countdown.min.js"></script>
+<script src="plugins/jquery-ui.min.js"></script>
+<script src="plugins/isotope.pkgd.min.js"></script>
+<script src="plugins/jquery.appear.js"></script>
+<script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+<script src="plugins/afterresize.min.js"></script>
+<script src="plugins/twitter/jquery.tweet.min.js"></script>
+<script src="plugins/flickr.js"></script>
+<script src="plugins/jackbox/js/jackbox-packed.min.js"></script>
+<script src="plugins/jquery.elevateZoom-3.0.8.min.js"></script>
+<script src="plugins/fancybox/jquery.fancybox.pack.js"></script>
+<script src="js/retina.min.js"></script>
+<!--theme initializer-->
+<script src="js/themeCore.js"></script>
+<script src="js/theme.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42499063-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

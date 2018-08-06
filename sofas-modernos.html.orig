@@ -1,0 +1,1189 @@
+<!doctype html>
+<html lang="es">
+<head>
+<title>Sofás modernos en piel y tela. Sofassinfin</title>
+<meta name="description" content="Sofás modernos de 2 y 3 plazas con asientos deslizantes, cabezales reclinables y garantía de hasta cinco (5) años de duración en sofás de piel y tela.">
+<meta name="keywords" content="sofas modernos, sofa moderno">
+<!--meta info-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="author" content="Bisem Rias SL">
+<!--add responsive layout support-->
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!--include favicon-->
+<link rel="shortcut icon" type="image/x-icon" href="images/fav.ico">
+<!--stylesheet include-->
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/animate.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/jackbox/css/jackbox.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="plugins/fancybox/jquery.fancybox.css">	
+<!--fonts include-->
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,400italic,500italic,300italic,100italic,100,700italic,900,900italic,700' rel='stylesheet' type='text/css'>
+<!--stylesheet include-->
+	<!--[if lte IE 10]>
+			<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+			<link rel="stylesheet" type="text/css" media="screen" href="plugins/jackbox/css/jackbox-ie9.css">
+		<![endif]-->
+		<!--head libs-->
+		<!--[if lte IE 8]>
+			<style>
+				#preloader{display:none !important;}
+			</style>
+		<![endif]-->
+</head>
+<body class="sticky_menu">
+		<!--layout-->
+<div class="wide_layout db_centered bg_white">
+			<!--[if (lt IE 9) | IE 9]>
+				<div class="bg_red" style="padding:5px 0 12px;">
+				<div class="container" style="width:1170px;"><div class="row wrapper"><div class="clearfix color_white" style="padding:9px 0 0;float:left;width:80%;"><i class="fa fa-exclamation-triangle f_left m_right_10" style="font-size:25px;"></i><b>Attention! This page may not display correctly.</b> <b>You are using an outdated version of Internet Explorer. For a faster, safer browsing experience.</b></div><div class="t_align_r" style="float:left;width:20%;"><a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode" class="button_type_1 d_block f_right lbrown tr_all second_font fs_medium" target="_blank" style="margin-top:6px;">Update Now!</a></div></div></div></div>
+			<![endif]-->
+<header role="banner" class="w_inherit">
+<!--top part-->
+<div class="header_top_part bg_grey_light_2">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4 t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0">
+<!--shop nav-->
+<nav class="d_xs_inline_b">
+<ul class="hr_list second_font si_list fs_small">
+<li><a class="sc_hover d_inline_b" title="Inicio" href="./">Inicio</a></li>
+<li><a class="sc_hover d_inline_b" title="Blog" href="blog/">Blog</a></li>
+<li><a class="sc_hover d_inline_b" rel="nofollow" title="Cientes" href="clientes/">Área Clientes</a></li>
+</ul>
+</nav>
+</div>
+<div class="col-lg-4 col-md-5 col-sm-4 fs_small color_light fw_light t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0"><p class="scheme_color">Necesitas Ayuda?  Tfno: 986.86.69.48</p></div>
+<div class="col-lg-4 col-md-5 col-sm-4 fs_small color_light fw_light t_xs_align_c htp_offset p_xs_top_0 p_xs_bottom_0">
+<!--currency-->
+<div class="f_right relative transform3d">
+<b class="scheme_color">Tienda online de Sofás Modernos</b> &nbsp; Avda de Vigo 42. Pontevedra &nbsp; 
+</div></div></div></div></div>
+<div class="header_middle_part t_xs_align_c">
+<div class="container">
+<div class="d_table w_full d_xs_block">
+<div class="col-lg-4 col-md-4 col-sm-4 d_table_cell d_xs_block f_none v_align_m m_xs_bottom_15">
+<!--logo-->
+<a rel="nofollow" href="./" title="Inicio" class="d_inline_b"><img src="images/logo.png" alt="Logotipo Sofassinfin"></a>
+</div>
+<div class="col-lg-8 col-md-8 col-sm-8 d_table_cell d_xs_block f_none v_align_m">
+<div class="clearfix">
+<div class="clearfix f_right f_xs_none d_xs_inline_b m_xs_bottom_15 t_xs_align_l">
+<!--currency-->
+<div class="f_right relative transform3d">
+<form action="admin/atencion-al-cliente.html" class="sc_hover"><button class="button_type_1 tr_all second_font color_dark grey state_2 fs_small" data-open-dropdown="#currency"><i class="fa fa-user d_inline_m m_right_5"></i> Contacto</button></form> 
+</div>
+<!--login-->
+<div class="f_right m_right_3 relative transform3d">
+<button class="button_type_1 tr_all second_font color_dark grey state_2" data-open-dropdown="#login"><i class="fa fa-phone d_inline_m m_right_5"></i> <span class="fs_small">Te llamamos</span></button>
+<div id="login" data-show="fadeInUp" data-hide="fadeOutDown" class="dropdown bg_grey_light login_dropdown animated">
+<form action="php/llamamos.php" method="post" id="llamamosform" class="m_bottom_15">
+<ul>
+<li class="m_bottom_15">
+<label for="name" class="second_font m_bottom_4 d_inline_b fs_medium">Nombre</label>
+<input type="text" name="name" id="name" placeholder="Su nombre" class="w_full tr_all" required/>
+</li>
+<li class="m_bottom_20">
+<label for="telefono" class="second_font m_bottom_4 d_inline_b fs_medium">Teléfono</label>
+<input type="text" name="telefono" id="telefono" placeholder="Su Teléfono" class="w_full tr_all" required/>
+</li>
+<li>
+<button type="submit" value="Enviar" class="t_align_c tt_uppercase w_full second_font d_block fs_medium button_type_2 lbrown tr_all">Enviar</button>
+</li>
+</ul>
+</form>
+</div></div></div></div></div></div></div></div>
+<div class="header_bottom_part bg_white w_inherit">
+<div class="container">
+<hr class="divider_black">
+<div class="row">
+<div class="col-lg-9 col-md-9">
+<button id="mobile_menu_button" class="vc_child d_xs_block db_xs_centered d_none m_bottom_10 m_top_15 bg_lbrown color_white tr_all"><i class="fa fa-navicon d_inline_m"></i> MENÚ</button>
+<!--main menu-->
+<nav role="navigation" class="d_xs_none">
+<ul class="main_menu relative hr_list second_font fs_medium">
+<li><a title="Sofás 3 + 2 Plazas" href="#" class="tt_uppercase tr_delay">Sofás 3 + 2 Plazas <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás Modernos" href="sofas-modernos.html">Sofás Modernos</a></li>
+<li><a title="Sofás Clásicos" href="sofas-clasicos.html">Sofás Clásicos</a></li>
+<li><a title="Sofás Relax" href="sofas-relax.html">Sofás Relax</a></li>
+</ul>
+<li><a title="Sofá Chaise-longue" href="#" class="tt_uppercase tr_delay">Sofá Chaise-longue <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás con Chaise-longue" href="chaise-longue-y-rinconeras.html">Sofás con Chaise-longue</a></li>
+<li><a title="Sofás Relax con Chaise-longue" href="chaise-longue-relax.html">Sofás Relax con Chaise-longue</a></li>
+</ul>
+</li>
+<li><a title="Sofá Cama" href="#" class="tt_uppercase tr_delay">Sofá Cama <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sofás Cama" href="sofas-cama.html">Sofás Cama</a></li>
+<li><a title="Sofás Cama Libro" href="sofas-cama-libro.html">Sofás Cama Libro</a></li>
+</ul>
+</li>
+<li><a title="Sillón" href="#" class="tt_uppercase tr_delay">Sillón <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Sillones Relax" href="sillones-relax.html">Sillones Relax</a></li>
+<li><a title="Butacas" href="butacas.html">Butacas</a></li>
+<li><a title="Poufs" href="pouf.html">Poufs</a></li>
+</ul>
+</li>
+<li><a title="Descanso" href="#" class="tt_uppercase tr_delay">Descanso <i class="fa fa-caret-down tr_inherit d_inline_m m_left_5 m_md_left_2"></i></a>
+<ul class="sub_menu bg_grey_light tr_all">
+<li><a title="Colchones" href="descanso/colchones.html">Colchones</a></li>
+<li><a title="Canapés Abatibles" href="descanso/canapes-abatibles.html">Canapés Abatibles</a></li>
+<li><a title="Cabeceros Tapizados" href="descanso/cabeceros-bases-tapizados.html">Cabeceros Tapizados</a></li>
+</ul>
+</li>
+<li><a title="Muebles" href="muebles/catalogo-muebles.html" class="tt_uppercase tr_delay">Muebles</a></li>
+</ul>
+</nav>
+</div></div></div></div>
+</header>
+<!--breadcrumbs-->
+<div class="breadcrumbs bg_grey_light_2 fs_medium fw_light">
+<div class="container">
+<a rel="nofollow" href="./" title="Inicio" class="sc_hover">Inicio</a> <span class="color_dark">/</span> Sofás Modernos
+</div>
+</div>
+<!--main content-->
+<div class="page_section_offset">
+<div class="container">
+<div class="row">
+<main class="col-lg-9 col-md-9 col-sm-9 m_bottom_30 m_xs_bottom_10">
+<h1 class="fw_light second_font color_dark tt_uppercase m_bottom_27">Sofás Modernos</h1>
+<figure class="m_bottom_45 m_xs_bottom_30">
+<img src="images/category_img_11.jpg" alt="Sofás Modernos" class="m_bottom_15">
+<figcaption>
+<p class="fw_light">Nuestros sofás modernos pueden tener como accesorios diferentes mecanismos, asientos deslizantes, cabezales reclinables, arcón bajo los asientos. <b>Sofás modernos de 2 y 3 plazas </b>con cobertura de asistencia técnica de hasta cinco (5) años de duración en sofás de piel.</p>
+</figcaption>
+</figure>
+<div class="d_table w_full m_bottom_5">
+<div class="col-lg-6 col-md-6 col-sm-6 d_xs_block v_align_m d_table_cell f_none fs_medium color_light fw_light m_xs_bottom_5">
+<div class="d_block fs_large">Catálogo </div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 d_xs_block v_align_m d_table_cell f_none t_align_r t_xs_align_l p_xs_left_0">
+<p class="fw_light fs_medium d_inline_m m_right_5 color_light">Ver en:</p>
+<div class="clearfix d_inline_m">
+<button data-isotope-layout="grid" data-isotope-container="#can_change_layout" class="button_type_4 f_left grey state_2 m_right_5 tr_all second_font tt_uppercase vc_child black_button_active"><i class="fa fa-th m_top_0 d_inline_m"></i></button>
+<button data-isotope-layout="list" data-isotope-container="#can_change_layout" class="button_type_4 f_left grey state_2 tr_all second_font tt_uppercase vc_child black_hover"><i class="fa fa-th-list m_top_0 d_inline_m"></i></button>
+</div></div></div>
+<hr class="divider_light m_bottom_5">
+<!--isotope-->
+<div id="can_change_layout" class="category_isotope_container three_columns wrapper m_bottom_10 m_xs_bottom_0" data-isotope-options='{
+								"itemSelector": ".category_isotope_item",
+					  			"layoutMode": "fitRows"
+							}'>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/channel/sofa-moderno-channel-dir_1.jpg" alt="Sofá moderno Channel. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/channel/sofa-moderno-channel-dir_2.jpg" alt="Sofá moderno Channel. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Channel</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Channel de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-channel.html" title="Sofá moderno Divani Star modelo Channel" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Channel</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/mito/sofa-moderno-mito-dir_1.jpg" alt="Sofá moderno Mito. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/mito/sofa-moderno-mito-dir_2.jpg" alt="Sofá moderno Mito. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Mito</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Mito de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-mito.html" title="Sofá moderno Divani Star modelo Mito" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Mito</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/loewe/sofa-moderno-loewe-dir_1.jpg" alt="Sofá moderno Loewe. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/loewe/sofa-moderno-loewe-dir_2.jpg" alt="Sofá moderno Loewe. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Loewe</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Loewe de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-loewe.html" title="Sofá moderno Divani Star modelo Loewe" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Loewe</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/alce/sofa-moderno-alce-dir_1.jpg" alt="Sofá moderno Alce. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/alce/sofa-moderno-alce-dir_2.jpg" alt="Sofá moderno Alce. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Alce</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Alce de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-alce.html" title="Sofá moderno Acomodel modelo Alce" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Alce</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/versalles/sofa-moderno-versalles-dir_1.jpg" alt="Sofá moderno Versalles. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/versalles/sofa-moderno-versalles-dir_2.jpg" alt="Sofá moderno Versalles. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Versalles</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Versalles de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-versalles.html" title="Sofá moderno Acomodel modelo Versalles" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Versalles</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/adagio/sofa-moderno-adagio-dir_1.jpg" alt="Sofá moderno Adagio. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/adagio/sofa-moderno-adagio-dir_2.jpg" alt="Sofá moderno Adagio. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Adagio</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Adagio de Gamamobel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-adagio.html" title="Sofá moderno Gamamobel modelo Adagio" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Adagio</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/game/sofa-moderno-game-dir_1.jpg" alt="Sofá moderno Game. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/game/sofa-moderno-game-dir_2.jpg" alt="Sofá moderno Game. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Game</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Game de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-game.html" title="Sofá moderno Acomodel modelo Game" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Game</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/loft/sofa-moderno-loft-dir_1.jpg" alt="Sofá moderno Loft. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/loft/sofa-moderno-loft-dir_2.jpg" alt="Sofá moderno Loft. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Loft</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Loft de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-loft.html" title="Sofá moderno Acomodel modelo Loft" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Loft</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/diva/sofa-moderno-diva-dir_1.jpg" alt="Sofá moderno Diva. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/diva/sofa-moderno-diva-dir_2.jpg" alt="Sofá moderno Diva. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Diva</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Diva de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-diva.html" title="Sofá moderno Acomodel modelo Diva" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Diva</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/milano/sofa-moderno-milano-dir_1.jpg" alt="Sofá moderno Milano. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/milano/sofa-moderno-milano-dir_2.jpg" alt="Sofá moderno Milano. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Milano</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Milano de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-milano.html" title="Sofá moderno Acomodel modelo Milano" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Milano</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/dior/sofa-moderno-dior-dir_1.jpg" alt="Sofá moderno Dior. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/dior/sofa-moderno-dior-dir_2.jpg" alt="Sofá moderno Dior. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Dior</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Dior de Gamamobel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-dior.html" title="Sofá moderno Gamamobel modelo Dior" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Dior</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/laia/sofa-moderno-laia-dir_1.jpg" alt="Sofá moderno Laia. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/laia/sofa-moderno-laia-dir_2.jpg" alt="Sofá moderno Laia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Laia</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Laia de Losbu con cabezales reclinable, asientos extraibles y tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-laia.html" title="Sofá moderno Losbu modelo Laia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Laia</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/camila/sofa-moderno-camila-dir_1.jpg" alt="Sofá moderno Camila. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/camila/sofa-moderno-camila-dir_2.jpg" alt="Sofá moderno Camila. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Camila</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Camila de Losbu con cabezales reclinable, asientos extraibles y tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-camila.html" title="Sofá moderno Losbu modelo Camila" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Camila</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/ambar/sofa-moderno-ambar-dir_1.jpg" alt="Sofá moderno Ambar. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/ambar/sofa-moderno-ambar-dir_2.jpg" alt="Sofá moderno Ambar. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Ambar</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Ambar de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-ambar.html" title="Sofá moderno Losbu modelo Ambar" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Ambar</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/silice/sofa-moderno-silice-dir_1.jpg" alt="Sofá moderno Silice. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/silice/sofa-moderno-silice-dir_2.jpg" alt="Sofá moderno Silice. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Silice</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Silice de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-silice.html" title="Sofá moderno Acomodel modelo Silice" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Silice</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/dylan/sofa-moderno-dylan-dir_1.jpg" alt="Sofá moderno Dylan. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/dylan/sofa-moderno-dylan-dir_2.jpg" alt="Sofá moderno Dylan. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Dylan</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Dylan de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-dylan.html" title="Sofá moderno Divani Star modelo Dylan" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Dylan</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/odin/sofa-moderno-odin-dir_1.jpg" alt="Sofá moderno Odin. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/odin/sofa-moderno-odin-dir_2.jpg" alt="Sofá moderno Odin. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Odin</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Odin de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-odin.html" title="Sofá moderno Losbu modelo Odin" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Odin</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/truman/sofa-moderno-truman-dir_1.jpg" alt="Sofá moderno Truman. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/truman/sofa-moderno-truman-dir_2.jpg" alt="Sofá moderno Truman. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Truman</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Truman de Losbu con cabezales reclinable, asientos extraibles y tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-truman.html" title="Sofá moderno Losbu modelo Truman" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Truman</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/vitara/sofa-moderno-vitara-dir_1.jpg" alt="Sofá moderno Vitara. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/vitara/sofa-moderno-vitara-dir_2.jpg" alt="Sofá moderno Vitara. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Vitara</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Vitara de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-vitara.html" title="Sofá moderno Acomodel modelo Vitara" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Vitara</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/oscar/sofa-moderno-oscar-dir_1.jpg" alt="Sofá moderno Oscar. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/oscar/sofa-moderno-oscar-dir_2.jpg" alt="Sofá moderno Oscar. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Oscar</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Oscar de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-oscar.html" title="Sofá moderno Losbu modelo Oscar" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Oscar</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/rocter/sofa-moderno-rocter-dir_1.jpg" alt="Sofá moderno Rocter. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/rocter/sofa-moderno-rocter-dir_2.jpg" alt="Sofá moderno Rocter. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Rocter</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Rocter de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-rocter.html" title="Sofá moderno Acomodel modelo Rocter" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Rocter</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/tessa/sofa-moderno-tessa-dir_1.jpg" alt="Sofá moderno Tessa. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/tessa/sofa-moderno-tessa-dir_2.jpg" alt="Sofá moderno Tessa. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Tessa</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Tessa de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-tessa.html" title="Sofá moderno Losbu modelo Tessa" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Tessa</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/barak/sofa-moderno-barak-dir_1.jpg" alt="Sofá moderno Barak. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/barak/sofa-moderno-barak-dir_2.jpg" alt="Sofá moderno Barak. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Barak</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Barak de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-barak.html" title="Sofá moderno Divani Star modelo Barak" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Barak</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/magno/sofa-moderno-magno-dir_1.jpg" alt="Sofá moderno Magno. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/magno/sofa-moderno-magno-dir_2.jpg" alt="Sofá moderno Magno. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Magno</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Magno de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-magno.html" title="Sofá moderno Acomodel modelo Magno" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Magno</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/anika/sofa-moderno-anika-dir_1.jpg" alt="Sofá moderno Anika. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/anika/sofa-moderno-anika-dir_2.jpg" alt="Sofá moderno Anika. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Anika</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Anika de Losbu con cabezales reclinable, asientos extraibles y tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-anika.html" title="Sofá moderno Losbu modelo Anika" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Anika</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/zeus/sofa-moderno-zeus-dir_1.jpg" alt="Sofá moderno Zeus. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/zeus/sofa-moderno-zeus-dir_2.jpg" alt="Sofá moderno Zeus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Zeus</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Zeus de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-zeus.html" title="Sofá moderno Divani Star modelo Zeus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Zeus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/shakira/sofa-moderno-shakira-dir_1.jpg" alt="Sofá moderno Shakira. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/shakira/sofa-moderno-shakira-dir_2.jpg" alt="Sofá moderno Shakira. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Gamamobel Shakira</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Shakira de Gamamobel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-shakira.html" title="Sofá moderno Gamamobel modelo Shakira" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Shakira</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/alexandra/sofa-moderno-alexandra-dir_1.jpg" alt="Sofá moderno Alexandra. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/alexandra/sofa-moderno-alexandra-dir_2.jpg" alt="Sofá moderno Alexandra. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Alexandra</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Alexandra de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-alexandra.html" title="Sofá moderno Losbu modelo Alexandra" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Alexandra</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/belonia/sofa-moderno-belonia-dir_1.jpg" alt="Sofá moderno Belonia. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/belonia/sofa-moderno-belonia-dir_2.jpg" alt="Sofá moderno Belonia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Belonia</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Belonia de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-belonia.html" title="Sofá moderno Acomodel modelo Belonia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Belonia</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/memory/sofa-moderno-memory-dir_1.jpg" alt="Sofá moderno Memory. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/memory/sofa-moderno-memory-dir_2.jpg" alt="Sofá moderno Memory. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Memory</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Memory de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-memory.html" title="Sofá moderno Acomodel modelo Memory" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Memory</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/rubi/sofa-moderno-rubi-dir_1.jpg" alt="Sofá moderno Rubi. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/rubi/sofa-moderno-rubi-dir_2.jpg" alt="Sofá moderno Rubi. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Rubi</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Rubi de Losbu tapizado en piel.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-rubi.html" title="Sofá moderno Losbu modelo Rubi" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Rubi</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/tomy/sofa-moderno-tomy-dir_1.jpg" alt="Sofá moderno Tomy. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/tomy/sofa-moderno-tomy-dir_2.jpg" alt="Sofá moderno Tomy. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Tomy</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Tomy de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-tomy.html" title="Sofá moderno Losbu modelo Tomy" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Tomy</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/agatha/sofa-moderno-agatha-dir_1.jpg" alt="Sofá moderno Agatha. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/agatha/sofa-moderno-agatha-dir_2.jpg" alt="Sofá moderno Agatha. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Agatha</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Agatha de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-agatha.html" title="Sofá moderno Losbu modelo Agatha" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Agatha</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/soho/sofa-moderno-soho-dir_1.jpg" alt="Sofá moderno Soho. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/soho/sofa-moderno-soho-dir_2.jpg" alt="Sofá moderno Soho. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Soho</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Soho de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-soho.html" title="Sofá moderno Divani Star modelo Soho" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Soho</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/blus/sofa-moderno-blus-dir_1.jpg" alt="Sofá moderno Blus. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/blus/sofa-moderno-blus-dir_2.jpg" alt="Sofá moderno Blus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Blus</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Blus de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-blus.html" title="Sofá moderno Acomodel modelo Blus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Blus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/brandon/sofa-moderno-brandon-dir_1.jpg" alt="Sofá moderno Brandon. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/brandon/sofa-moderno-brandon-dir_2.jpg" alt="Sofá moderno Brandon. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Brandon</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Brandon de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-brandon.html" title="Sofá moderno Divani Star modelo Brandon" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Brandon</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/elegant/sofa-moderno-elegant-dir_1.jpg" alt="Sofá moderno Elegant. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/elegant/sofa-moderno-elegant-dir_2.jpg" alt="Sofá moderno Elegant. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Elegant</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Elegant de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-elegant.html" title="Sofá moderno Divani Star modelo Elegant" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Elegant</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/house/sofa-moderno-house-dir_1.jpg" alt="Sofá moderno House. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/house/sofa-moderno-house-dir_2.jpg" alt="Sofá moderno House. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star House</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo House de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-house.html" title="Sofá moderno Divani Star modelo House" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> House</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/jom/sofa-moderno-jom-dir_1.jpg" alt="Sofá moderno Jom. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/jom/sofa-moderno-jom-dir_2.jpg" alt="Sofá moderno Jom. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Jom</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Jom de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-jom.html" title="Sofá moderno Losbu modelo Jom" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Jom</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/lotus/sofa-moderno-lotus-dir_1.jpg" alt="Sofá moderno Lotus. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/lotus/sofa-moderno-lotus-dir_2.jpg" alt="Sofá moderno Lotus. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Lotus</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Lotus de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-lotus.html" title="Sofá moderno Divani Star modelo Lotus" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Lotus</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/mark/sofa-moderno-mark-dir_1.jpg" alt="Sofá moderno Mark. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/mark/sofa-moderno-mark-dir_2.jpg" alt="Sofá moderno Mark. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Divani Star Mark</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Mark de Divani Star tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-mark.html" title="Sofá moderno Divani Star modelo Mark" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Mark</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/sublime/sofa-moderno-sublime-dir_1.jpg" alt="Sofá moderno Sublime. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/sublime/sofa-moderno-sublime-dir_2.jpg" alt="Sofá moderno Sublime. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Sublime</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Sublime de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-sublime.html" title="Sofá moderno Acomodel modelo Sublime" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Sublime</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/romina/sofa-moderno-romina-dir_1.jpg" alt="Sofá moderno Romina. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/romina/sofa-moderno-romina-dir_2.jpg" alt="Sofá moderno Romina. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Romina</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Romina de Losbu con cabezales reclinable, asientos extraibles y tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-romina.html" title="Sofá moderno Losbu modelo Romina" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Romina</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/rossi/sofa-moderno-rossi-dir_1.jpg" alt="Sofá moderno Rossi. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/rossi/sofa-moderno-rossi-dir_2.jpg" alt="Sofá moderno Rossi. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Rossi</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Rossi de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-rossi.html" title="Sofá moderno Losbu modelo Rossi" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Rossi</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/salvador/sofa-moderno-salvador-dir_1.jpg" alt="Sofá moderno Salvador. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/salvador/sofa-moderno-salvador-dir_2.jpg" alt="Sofá moderno Salvador. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Salvador</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Salvador de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-salvador.html" title="Sofá moderno Losbu modelo Salvador" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Salvador</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/zulay/sofa-moderno-zulay-dir_1.jpg" alt="Sofá moderno Zulay. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/zulay/sofa-moderno-zulay-dir_2.jpg" alt="Sofá moderno Zulay. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Zulay</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Zulay de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-zulay.html" title="Sofá moderno Losbu modelo Zulay" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Zulay</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/tirso/sofa-moderno-tirso-dir_1.jpg" alt="Sofá moderno Tirso. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/tirso/sofa-moderno-tirso-dir_2.jpg" alt="Sofá moderno Tirso. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Tirso</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Tirso de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-tirso.html" title="Sofá moderno Losbu modelo Tirso" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Tirso</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/gomera/sofa-moderno-gomera-dir_1.jpg" alt="Sofá moderno Gomera. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/gomera/sofa-moderno-gomera-dir_2.jpg" alt="Sofá moderno Gomera. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Gomera</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Gomera de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-gomera.html" title="Sofá moderno Losbu modelo Gomera" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Gomera</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/como/sofa-moderno-como-dir_1.jpg" alt="Sofá moderno Como. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/como/sofa-moderno-como-dir_2.jpg" alt="Sofá moderno Como. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Acomodel Como</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Como de Acomodel tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-como.html" title="Sofá moderno Acomodel modelo Como" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Como</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/nadia/sofa-moderno-nadia-dir_1.jpg" alt="Sofá moderno Nadia. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/nadia/sofa-moderno-nadia-dir_2.jpg" alt="Sofá moderno Nadia. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Nadia</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Nadia de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-nadia.html" title="Sofá moderno Losbu modelo Nadia" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Nadia</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/cler/sofa-moderno-cler-dir_1.jpg" alt="Sofá moderno Cler. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/cler/sofa-moderno-cler-dir_2.jpg" alt="Sofá moderno Cler. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Cler</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Cler de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-cler.html" title="Sofá moderno Losbu modelo Cler" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Cler</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/hilary/sofa-moderno-hilary-dir_1.jpg" alt="Sofá moderno Hilary. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/hilary/sofa-moderno-hilary-dir_2.jpg" alt="Sofá moderno Hilary. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Hilary</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Hilary de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-hilary.html" title="Sofá moderno Losbu modelo Hilary" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Hilary</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/picolo/sofa-moderno-picolo-dir_1.jpg" alt="Sofá moderno Picolo. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/picolo/sofa-moderno-picolo-dir_2.jpg" alt="Sofá moderno Picolo. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Picolo</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Picolo de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-picolo.html" title="Sofá moderno Losbu modelo Picolo" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Picolo</a>
+</figcaption></figure></div>
+<!--isotope item-->
+<div class="category_isotope_item">
+<figure class="product_item relative c_image_container frame_container t_sm_align_c r_image_container">
+<div class="relative"><div>
+<img src="sofas-modernos/jaky/sofa-moderno-jaky-dir_1.jpg" alt="Sofá moderno Jaky. Imagen1" class="c_image_1 tr_all">
+<img src="sofas-modernos/jaky/sofa-moderno-jaky-dir_2.jpg" alt="Sofá moderno Jaky. Imagen2" class="c_image_2 tr_all">
+</div></div><figcaption class="bg_white relative p_bottom_0"><div class="row">
+<div class="col-lg-7 col-md-7 m_bottom_9">
+<p class="second_font sc_hover d_xs_block">Losbu Jaky</p><div class="relative">
+<p class="fw_light color_light sc_hover category_link tr_all">Sofá moderno</p>
+<br class="d_none"></div><hr class="d_none divider_light m_bottom_15">
+<p class="fw_light d_none m_bottom_14 color_grey">Sofá de estilo moderno modelo Jaky de Losbu tapizado en piel y tela antimanchas.</p>
+<hr class="d_none divider_light m_bottom_15"></div></div>
+<a href="sofas-modernos/sofa-moderno-jaky.html" title="Sofá moderno Losbu modelo Jaky" class="button_type_2 m_bottom_9 d_block w_full t_align_c lbrown state_2 tr_all second_font fs_medium tt_uppercase"><i class="fa fa-info-circle d_inline_m m_right_9"></i> Jaky</a>
+</figcaption></figure></div>
+<!--fin isotope item-->
+</div>
+<hr class="m_bottom_5 divider_light">
+</main>
+<aside class="col-lg-3 col-md-3 col-sm-3 m_bottom_40 m_xs_bottom_0 p_top_4">
+<!--categories widget-->
+<section class="m_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Categorias</h5>
+<hr class="divider_bg m_bottom_23">
+<ul class="categories_list second_font w_break">
+<li class="relative"><a title="Sofás 3 + 2 Plazas" href="#" class="fs_large_0 d_inline_b tr_delay fw_bold scheme_color bg_grey_light_2">Sofás 3 + 2 Plazas</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul>
+	<li class="relative"><a title="Sofás Modernos" href="sofas-modernos.html" class="tr_delay d_inline_b fw_bold scheme_color bg_grey_light_2">Sofás Modernos</a></li>
+	<li class="relative"><a title="Sofás Clásicos" href="sofas-clasicos.html" class="tr_delay d_inline_b">Sofás Clásicos</a></li>
+	<li class="relative"><a title="Sofás con Relax" href="sofas-relax.html" class="tr_delay d_inline_b">Sofás con Relax</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sofás Chaise-longue" href="#" class="fs_large_0 d_inline_b tr_delay">Sofás con Chaise-longue</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sofás con Chaise-longue" href="chaise-longue-y-rinconeras.html" class="tr_delay d_inline_b">Sofás con Chaise-longue</a></li>
+	<li class="relative"><a title="Sofás Relax con Chaise-longue" href="chaise-longue-relax.html" class="tr_delay d_inline_b">Sofás Relax con Chaise-longue</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sofás Cama" href="#" class="fs_large_0 d_inline_b tr_delay">Sofás Cama</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sofás Cama Sistema Italiano" href="sofas-cama.html" class="tr_delay d_inline_b">Sofás Cama Sistema Italiano</a></li>
+	<li class="relative"><a title="Sofás Cama Libro" href="sofas-cama-libro.html" class="tr_delay d_inline_b">Sofás Cama Libro</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Sillones y Butacas" href="#" class="fs_large_0 d_inline_b tr_delay">Sillones y Butacas</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Sillones Relax" href="sillones-relax.html" class="tr_delay d_inline_b">Sillones Relax</a></li>
+	<li class="relative"><a title="Butacas y Sillones " href="butacas.html" class="tr_delay d_inline_b">Butacas y Sillones</a></li>
+	<li class="relative"><a title="Poufs" href="pouf.html" class="tr_delay d_inline_b">Poufs</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Descanso" href="#" class="fs_large_0 d_inline_b tr_delay">Descanso</a><button class="open_sub_categories fs_medium"></button>
+	<!--second level-->
+	<ul class="d_none">
+	<li class="relative"><a title="Colchones" href="descanso/colchones.html" class="tr_delay d_inline_b">Colchones</a></li>
+	<li class="relative"><a title="Canapés Abatibles" href="descanso/canapes-abatibles.html" class="tr_delay d_inline_b">Canapés Abatibles</a></li>
+	<li class="relative"><a title="Cabeceros Tapizados" href="descanso/cabeceros-bases-tapizados.html" class="tr_delay d_inline_b">Cabeceros Tapizados</a></li>
+	</ul>
+</li>
+<li class="relative"><a title="Muebles" href="muebles/catalogo-muebles.html" class="fs_large_0 d_inline_b tr_delay">Muebles</a></li>
+</ul>
+</section>
+<hr class="divider_light m_bottom_5">
+<!--widget-->
+<div class="represent_wrap widget clearfix m_bottom_30">
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-lock d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Compra Segura</p>
+<small class="fw_light">Sofassinfin le garantiza que todos los datos que nos envíes están a salvo.</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-truck d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Transporte Gratis</p>
+<small class="fw_light">Envío, subida a domicilio e instalación sin coste adicional (en toda la península).</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-certificate d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Garantia Satisfacción</p>
+<small class="fw_light">Le ofrecemos una garantía de satisfacción del 100% en todos nuestros sofás.</small>
+</div>
+</section>
+<section class="item_represent m_bottom_3 type_2 h_inherit t_sm_align_c bg_grey_light_2 tr_delay">
+<div class="d_inline_m m_xs_bottom_0 color_lbrown icon_wrap_1 t_align_c vc_child"><i class="fa fa-credit-card d_inline_m"></i></div>
+<div class="description d_inline_m lh_medium">
+<p class="color_dark second_font m_bottom_2 fs_large">Financiación</p>
+<small class="fw_light">Financiamos la compra de su sofá con hasta con 12 meses sin intereses.</small>
+</div>
+</section>
+</div>
+</aside>
+</div></div></div>
+<!--footer-->
+<footer role="contentinfo" class="bg_grey_light_2">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-md-6">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Horario de Apertura</h5>
+<hr class="divider_bg m_bottom_25">
+<!--tags-->
+<ul class="second_font vr_list_type_1 with_links">
+<li>Lunes - Viernes: 10.00 - 13.30 (M)</li>
+<li>Lunes - Viernes: 17.00 - 20.30 (T)</li>
+</ul>
+<p class="second_font m_bottom_15">Sabados: 10.00 - 14.00</p>
+<p class="second_font m_bottom_15">Domingos y Festivos: Cerrado</p>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Decoración</h5>
+<hr class="divider_bg m_bottom_25">
+<ul class="second_font vr_list_type_1 with_links">
+<li class="m_bottom_14"><a rel="nofollow" title="Como elegir un sofá" href="decoracion/elegir-el-sofa.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Como elegir un sofá</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Tipos de telas sofá" href="decoracion/tipos-de-telas.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Tipos de telas sofá</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Tipos de piel sofá" href="decoracion/tipos-de-piel.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Tipos de piel sofá</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_13 m_sm_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Información</h5>
+<hr class="divider_bg m_bottom_25">
+<ul class="second_font vr_list_type_1 with_links">
+<li class="m_bottom_14"><a rel="nofollow" title="Guía de Compra" href="admin/guia-compra.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Guía de Compra</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Garantías" href="admin/garantia.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Garantías</a></li>
+<li class="m_bottom_14"><a rel="nofollow" title="Politica de Privacidad" href="admin/politica-privacidad.html" class="sc_hover d_inline_b"><i class="fa fa-caret-right"></i>Politica de Privacidad</a></li>
+</ul>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 m_bottom_35 m_xs_bottom_30">
+<h5 class="color_dark tt_uppercase second_font fw_light m_bottom_13">Contacto</h5>
+<hr class="divider_bg m_bottom_25">
+<p class="second_font m_bottom_15"><i class="fa fa-map-marker color_dark"></i> Avda de Vigo 42, Pontevedra, 36003</p>
+<ul class="second_font vr_list_type_2 m_bottom_20">
+<li><i class="fa fa-phone color_dark fs_large"></i>986-86-69-48</li>
+</ul>
+<ul class="hr_list">
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Facebook" href="https://www.facebook.com/sofassinfin" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-facebook fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Facebook</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Twitter" href="https://twitter.com/sofassinfin" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-twitter fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Twitter</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="publisher" title="Sofassinfin en, Google+" href="https://plus.google.com/+SofassinfinEs/posts" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-google-plus fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Google Plus</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Pinterest" href="https://www.pinterest.com/sofassinfin/" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-pinterest fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Pinterest</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Youtube" href="https://www.youtube.com/user/SofassinfinGalicia" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-youtube-play fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">Youtube</span></a>
+</li>
+<li class="m_right_3 m_bottom_3">
+<a rel="nofollow" title="Sofassinfin en, Linkedin" href="https://www.linkedin.com/company/sofassinfin/" onClick="this.target='_blank'" class="button_type_6 d_block grey state_2 tr_delay color_dark t_align_c vc_child tooltip_container relative"><i class="fa fa-linkedin fs_large d_inline_m"></i><span class="tooltip top fs_small color_white hidden animated" data-show="fadeInDown" data-hide="fadeOutUp">LinkedIn</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<hr class="divider_black m_bottom_13">
+<div class="d_table w_full d_xs_block t_xs_align_c">
+<div class="col-lg-6 col-md-6 col-sm-6 color_light fw_light f_none d_table_cell v_align_m d_xs_block m_xs_bottom_10"><a rel="nofollow" title="Validación en W3C" href="http://validator.w3.org/check?uri=http%3A%2F%2Fsofassinfin.es%2Fsofas-modernos.html" onClick="this.target='_blank'"><img src="images/w3c.jpg" alt="W3c" /></a> &nbsp; &copy;  2008 Bisem Rias S.L.. Todos los Derechos Reservados.</div>
+<div class="col-lg-6 col-md-6 col-sm-6 t_align_r t_xs_align_c f_none d_table_cell v_align_m d_xs_block">
+<ul class="hr_list d_inline_b">
+<li class="m_right_5"><img src="images/payment_1.jpg" alt="Visa"></li>
+<li class="m_right_5"><img src="images/payment_2.jpg" alt="Master Card"></li>
+<li class="m_right_5"><img src="images/payment_3.jpg" alt="Pago Seguro"></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!--back to top-->
+<button class="back_to_top animated button_type_6 grey state_2 d_block black_hover f_left vc_child tr_all"><i class="fa fa-angle-up d_inline_m"></i></button>
+<!--libs include-->
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/modernizr.js"></script>
+<script src="plugins/countdown/jquery.plugin.min.js"></script>
+<script src="plugins/countdown/jquery.countdown.min.js"></script>
+<script src="plugins/jquery-ui.min.js"></script>
+<script src="plugins/isotope.pkgd.min.js"></script>
+<script src="plugins/jquery.appear.js"></script>
+<script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+<script src="plugins/afterresize.min.js"></script>
+<script src="plugins/twitter/jquery.tweet.min.js"></script>
+<script src="plugins/flickr.js"></script>
+<script src="plugins/jackbox/js/jackbox-packed.min.js"></script>
+<script src="plugins/jquery.elevateZoom-3.0.8.min.js"></script>
+<script src="plugins/fancybox/jquery.fancybox.pack.js"></script>
+<script src="js/retina.min.js"></script>
+<!--theme initializer-->
+<script src="js/themeCore.js"></script>
+<script src="js/theme.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42499063-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

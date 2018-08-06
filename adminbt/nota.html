@@ -1,0 +1,227 @@
+
+<div class='container'>
+<div class='row'>
+<div class='col s12 l12'  style='background-color: #FCFCFC; padding: 10px; border: 1px solid #E8E8E8;'>
+
+<?
+				
+					$consulta="select * from noticias where id=".$_GET['id']." order by id DESC limit 100;";
+					$sql=mysql_query($consulta,$conex);
+					$not=mysql_fetch_array($sql);
+					
+					$_SESSION['id']=$not['id'];
+			
+?>
+
+<center><h5> Modificar <? echo $_SESSION['cate'.$not['subtitulo']]; ?></h5></center><p>&nbsp;<br>
+
+				
+		<form action='/admin/listado?<? echo $rand; ?>' method='POST'>
+		
+		<input type='hidden' name='accion' value='editar'>
+		<input type='hidden' name='id' value='<? echo $not['id']; ?>'>
+		 
+		
+		<div class='col s12 l8'>
+				<div class='col s12  '>Titulo</div>
+				<div class='col s12 '>
+				<input type='text' style='background-color: white; border: 1px inset #eeeeee;  padding-left:5px; ' name='titulo' placeholder='Titulo' style='background-color: white;	' value='<? echo $not['titulo']; ?>'  required>
+				</div>
+				
+				<div class='col s12 '>Categoria</div>
+				<div class='col s12'>
+				
+					<select class='browser-default' name='subtitulo'>
+						<option value='<? echo $not['subtitulo']; ?>'><? echo $_SESSION['cate'.$not['subtitulo']]; ?></option>
+					
+						<? //LISTAMOS TODAS LAS CATEGORIAS
+						
+						$consulta="select *  from categorias WHERE id!='".$_GET['id']."' ORDER BY categoria ";
+				 
+				$sql=mysql_query($consulta,$conex);
+				while($campo=mysql_fetch_array($sql)){
+				
+				echo "<option value='".$campo[0]."'>".$campo['categoria']."</option>";
+				}
+						
+						
+						
+						
+						?>
+					
+					
+					</select>
+				
+				</div>
+				
+				&nbsp;<br>
+				
+				<div class='col s12 '>Noticia</div>
+				<div class='col s12  '><div class='white'>
+				<textarea  id='area' style='max-width:100%; height: 300px; background-color: #FFFFFF; border: 1px inset #eeeeee;  padding-left:5px;'  name='texto' placeholder='Escribe aqui la noticia completa'  ><? echo $not['texto']; ?></textarea>
+				</div></div>
+				&nbsp;<br>
+				
+					
+				<div class='col s12  '>Web</div>
+				<div class='col s12 '>
+				<input type='url' style='background-color: white; border: 1px inset #eeeeee;  padding-left:5px; ' name='url' placeholder='Página Web' style='background-color: white;	' value='<? echo $not['url']; ?>'  >
+				 
+				</div>
+				
+				
+				<div class='col s12 '>Estado</div>
+				<div class='col s12'>
+				
+					<select class='browser-default' name='activo'>
+						<option value='0' <? if ($campo['activo']==0) { echo "selected";} ?>>Borrador</option>
+						<option value='1' <? if ($campo['activo']==1) { echo "selected";} ?>>Publicado</option>
+					</select>
+				
+				</div>
+					
+		</div>			
+					
+				
+		<div class='col s12 l4'>		
+				
+				
+					
+			
+			<label>Fecha</label>
+				<div class='col s12 '>
+				<input type='text' style='background-color: #ffffff; border: 0px inset #eeeeee;  padding-left:0px; ' name='fecha' placeholder='Fecha' style='background-color: white;	' value='<? echo $not['fecha']; ?>'  required>
+				</div>
+					
+				 
+				 	&nbsp;<p>
+				
+			 
+				<div class='col s12 l10 '>
+			
+				<?
+				
+				 
+				echo "  
+					<div id='imagen' >	
+						
+						<div id='cargados' class=' tooltipped' data-position='bottom' data-delay='5' data-tooltip='Pulse aqui para subir imagen.' style='cursor:hand; cursor:pointer;'>
+							<img id='banner' src='/admin/img.php?id=".$_GET['id']."&".rand(0,100)."' class=' responsive-img'  onerror=\"this.src='/admin/sin_foto.jpg';\"> 
+								
+							<div>
+								<input id='archivosbanner' type='file' name='archivo'  onchange='modbanner();'  style='display: none; ' />
+								
+							</div>
+						</div>
+						 
+						
+					
+						
+					</div><center><a  onclick=\"document.getElementById('archivosbanner').click()\" class='btn purple'><i class='fa fa-camera'></i> Nueva Foto</A></center><p>
+		
+		</div>	";
+					
+					 
+			?>
+			<span class='grey-text'>Recomendado imagen de 800x480px.</span>
+			
+			
+			
+			
+			
+		
+				</div>
+				
+				
+				
+				
+				
+		</div>		
+				
+				
+				
+				<div class='col s12 l12 center-text'>
+				&nbsp;<br>
+				<center>
+					<button  type="submit" value='Publicar' class='btn'><i class="fa fa-cloud"></i> Guardar </button></center>
+			</center>
+				</div>
+				
+				</form>
+				
+				</div>
+</div></div>
+
+
+<script>
+ 
+function modbanner(){ 
+
+
+document.getElementById("banner").src='/admin/loading.gif';
+Materialize.toast('Espere...',5000);
+$("#subido").remove();
+var archivos = document.getElementById("archivosbanner");//Damos el valor del input tipo file
+var archivo = archivos.files; //Obtenemos el valor del input (los arcchivos) en modo de arreglo
+
+/* Creamos el objeto que hara la petición AJAX al servidor, debemos de validar 
+si existe el objeto “ XMLHttpRequest” ya que en internet explorer viejito no esta,
+y si no esta usamos “ActiveXObject” */ 
+
+ if(window.XMLHttpRequest) { 
+ var Req = new XMLHttpRequest(); 
+ }else if(window.ActiveXObject) { 
+ var Req = new ActiveXObject("Microsoft.XMLHTTP"); 
+ }
+
+//El objeto FormData nos permite crear un formulario pasandole clave/valor para poder enviarlo, 
+//este tipo de objeto ya tiene la propiedad multipart/form-data para poder subir archivos
+var data = new FormData();
+
+//Como no sabemos cuantos archivos subira el usuario, iteramos la variable y al
+//objeto de FormData con el metodo "append" le pasamos calve/valor, usamos el indice "i" para
+//que no se repita, si no lo usamos solo tendra el valor de la ultima iteración
+for(i=0; i<archivo.length; i++){
+   data.append('archivo'+i,archivo[i]);
+}
+
+//Pasándole la url a la que haremos la petición
+Req.open("POST", "/admin/ajax-subirfoto.php", true);
+
+/* Le damos un evento al request, esto quiere decir que cuando termine de hacer la petición,
+se ejecutara este fragmento de código */ 
+
+Req.onload = function(Event) {
+//Validamos que el status http sea ok 
+if (Req.status == 200) { 
+
+
+	document.getElementById('banner').style.display='none';
+
+	
+  //Recibimos la respuesta de php
+  var msg = Req.responseText;
+  $("#cargados").append(msg);
+} else { 
+  console.log(Req.status); //Vemos que paso. 
+  alert('error');
+} 
+};
+
+ //Enviamos la petición 
+ Req.send(data); 
+
+}
+
+
+
+
+
+
+new nicEditor({fullPanel : true}).panelInstance('area');
+
+
+
+
+
+</script>
